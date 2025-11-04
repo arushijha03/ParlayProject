@@ -1,0 +1,613 @@
+inquiry_id,ind_det_incomes_tyoe,ind_det_incomes_amount
+3b686117-5f64-4b77-800f-f8659c09da61,['W-2'],[950000]
+885016e6-da8d-45d1-a2ac-750b3ea4195c,['investment'],[4436612]
+8eef7d77-c284-4b09-843a-047dd7e18f40,"['freelance', 'salary', 'freelance']","[9232498, 23918772, 10092707]"
+3e352196-a827-46ad-9d03-9e84b177fa3a,"['bonus', 'bonus', 'bonus']","[2583183, 2754243, 3193742]"
+7af7fac9-4391-4d7f-8809-1e9d56a1b6af,"['freelance', 'bonus', 'freelance']","[2471612, 252906, 8757037]"
+78e22302-3bed-4831-8643-e2f0afc25b21,"['salary', 'freelance']","[19554704, 2599493]"
+ec77942f-4ea8-4ebe-85bb-a4c1190be238,"['salary', 'bonus', 'bonus']","[14903659, 4762308, 754166]"
+3d91bc7b-1ac4-41bc-8ca3-fd5317d32e16,"['bonus', 'freelance']","[462681, 4532619]"
+7deced06-58ba-49b8-a25f-d8dfc2c0241c,"['salary', 'freelance']","[19970669, 2817083]"
+344e33ea-e1b6-49b9-9892-e4aad89306d0,"['freelance', 'salary', 'investment']","[10236641, 15887369, 2681589]"
+9d2ccc95-1d40-4018-935c-37f64bf66645,['freelance'],[2523598]
+1e8fe0bc-f71c-4ac9-84e2-8845c7abd78a,"['investment', 'investment']","[2273666, 3160830]"
+7def4293-20de-4387-8446-516456e1b903,"['bonus', 'investment']","[4080688, 9187632]"
+44ca477f-cf6b-4aa2-93f6-e49af47a8085,['freelance'],[11482917]
+12016298-0bc9-4d63-aa1f-911241b68ec5,"['salary', 'investment']","[20050366, 9556724]"
+9e705663-433f-4867-b99c-485106c8b539,['freelance'],[9632215]
+98b103aa-a1e9-4511-9fd2-ebfa996b61b2,"['freelance', 'salary']","[4255885, 7010368]"
+90132c61-fc23-42ff-aeb1-0975630a777c,"['salary', 'salary']","[7580842, 19468107]"
+d43970bc-10a2-4a43-92d1-9cd3cfef9738,"['investment', 'bonus', 'bonus']","[3375544, 3920651, 2225254]"
+4a0b45d8-c150-4f9d-bda8-58a4617b08ee,"['salary', 'bonus']","[16364481, 4114598]"
+e83921a5-2613-4177-9f47-c16451fec808,['investment'],[9592331]
+4a9ae545-a31c-4cc8-a08a-19d529700d27,['bonus'],[4449408]
+f7da6940-0dfb-4c29-8b0c-9cc56e1265e3,"['salary', 'freelance', 'bonus']","[7777504, 8982996, 3281629]"
+02155bb7-f18f-4dd8-abd1-a1f448f0cd2d,"['investment', 'salary']","[5912739, 9415658]"
+d698d32e-ca0e-4e6a-83a3-532cdbb7dc55,"['investment', 'freelance']","[4479869, 7739017]"
+b8b21d1b-0a1a-43ad-b60f-2450581000ba,"['investment', 'bonus']","[6746574, 3198061]"
+04acf4cc-d09c-47cf-94ab-66c89c1a5979,"['freelance', 'investment', 'salary']","[6611066, 7320382, 19787817]"
+fae13bc5-e3af-4f9d-92b6-7259d117c8e6,['investment'],[9208905]
+0c37d937-9d9b-4931-925b-2faa7bb96bf9,"['freelance', 'salary', 'investment']","[11586039, 7371228, 3819565]"
+c80b7de3-9cd6-4a92-a8d8-731998e8c803,"['freelance', 'salary', 'freelance']","[2797391, 22479278, 11455656]"
+e969985f-bcbe-4ae8-b2fd-84a15bdb9751,['investment'],[6520176]
+33fd4dda-c325-463d-ac82-23d4e79e55fb,['salary'],[7536237]
+b5ee96e0-0401-4815-b449-6dd9dced2d81,['bonus'],[4850242]
+7b0f1e54-905e-4330-83ec-5e8f5a48592a,"['salary', 'bonus', 'investment']","[11013383, 2822092, 2029463]"
+fd3aa6d3-feaf-46d4-9e02-733c8aaa119c,['bonus'],[1947569]
+39ea5b1b-9963-407e-8e16-9f0b35b1de79,"['investment', 'bonus', 'salary']","[5412545, 3348415, 15404570]"
+ec06f4d9-e254-4a05-8b36-626309bda3fe,['salary'],[15071652]
+26047016-561e-4374-8360-a66a53d1f828,['investment'],[7671568]
+072c3d7c-9d9b-42db-95d3-bdf91a973d4f,"['salary', 'salary', 'salary']","[20272144, 7239747, 22409983]"
+e7afdd0a-484c-4d08-9f8f-9588fb4d2407,"['freelance', 'salary']","[8475138, 23956873]"
+eb09977e-86ff-4dc9-b247-ab54b9d01a27,['salary'],[18156309]
+df0d3d2f-dd60-482f-b305-e0b632b7a334,"['bonus', 'freelance']","[3057705, 5696940]"
+0cbfa9b3-c5f8-4055-b195-07b11afdf8ee,"['salary', 'bonus', 'bonus']","[14846301, 4493743, 2146449]"
+5c76779e-04a3-4dde-a549-43cddd78d3d6,"['investment', 'investment']","[2530432, 3421990]"
+e8644895-1870-477c-b12e-32245bd8b7d6,"['bonus', 'bonus', 'salary']","[4097353, 1153389, 7020023]"
+ded8c7ae-42ab-49d8-8e47-435cce3aa0c1,"['investment', 'salary']","[9157416, 14607669]"
+5e39f10a-04c9-455c-b584-1fd5b987bcfb,"['freelance', 'investment', 'bonus']","[9256121, 4657607, 521424]"
+3d4e56e0-a09a-4d7e-ab03-fc128086e5e7,"['freelance', 'freelance', 'salary']","[8285033, 7007031, 8198517]"
+e5bf26b0-81f5-4f08-8174-dce4a1d388ae,"['salary', 'freelance', 'investment']","[13521386, 7943360, 1542013]"
+194d08dc-4a5e-4421-871f-ab135370950a,"['investment', 'bonus', 'bonus']","[9607368, 969244, 506666]"
+266b5842-37d2-4780-8148-7672608b0567,"['bonus', 'bonus', 'investment']","[3388383, 2394656, 8367899]"
+72269462-50e6-4508-9c77-73ef934b30c4,['investment'],[9350838]
+6a532fdb-bdd6-47bb-a880-df2a568b9c5f,['bonus'],[4794544]
+3d304dda-275b-4f0e-b7b7-8ac79257072e,"['salary', 'salary']","[10960017, 23334836]"
+3449624b-5827-4ef3-8eb2-b41e0c94ee30,"['bonus', 'bonus']","[1118033, 1946452]"
+a155e594-b8ee-4a6c-87aa-d14c4bb07bc9,['investment'],[7200377]
+55f445de-23b7-4119-aefd-f1b96121a0b6,"['freelance', 'bonus', 'investment']","[5282908, 3342095, 2926967]"
+abbdbcef-14d3-4a0a-a54d-ce312e8e41b6,['freelance'],[10442430]
+7603ca0c-fa1d-4dc0-a635-586ce505dfb0,"['freelance', 'salary', 'freelance']","[11756020, 9833469, 9417135]"
+0cbfd584-d58a-4aa3-8402-79676e9c1ebc,['bonus'],[2229323]
+0c419101-35c1-4069-af87-42fb569653f6,"['freelance', 'salary', 'freelance']","[7604119, 5249281, 2267643]"
+a0d80c88-d19c-4b9a-956d-86fbcf44468e,"['investment', 'bonus']","[3080851, 2806732]"
+cf0dffa2-6c77-45fe-be78-98215f52a088,"['freelance', 'bonus', 'salary']","[6021350, 4353571, 7020710]"
+84ca71b5-1579-41ff-a4a9-2ff65905881a,"['freelance', 'salary']","[6448245, 9999498]"
+df12f141-245c-4c5a-89af-f585643b604b,['salary'],[22895109]
+a811e367-0367-4861-8878-beb590ea2e03,"['bonus', 'bonus', 'salary']","[4787994, 4478246, 22496464]"
+d053d67c-6d6a-4cee-9bb6-f3bf4c0f7022,"['bonus', 'bonus', 'freelance']","[2982589, 2311872, 2897370]"
+11231aa8-0662-4432-81c2-3bbbf2ac0a11,"['investment', 'salary', 'salary']","[4884080, 5498883, 14286003]"
+b2b197f2-729b-4c99-aa48-417d8f8879dc,"['freelance', 'salary']","[11079876, 12442821]"
+a0e478f5-8bbb-4fdd-8d62-b669cf68daf5,['investment'],[9115232]
+1b6726c5-d1ff-4bf4-8593-210429f516d3,"['salary', 'salary']","[19610540, 16072314]"
+2173d049-a79c-4557-b3d7-47369803c59e,"['salary', 'bonus', 'salary']","[20958054, 4583976, 21028788]"
+10be4e72-7cda-49f8-931a-a3be6e86973b,"['salary', 'salary', 'salary']","[13202505, 17019700, 24886221]"
+b1eba5dc-a09f-41ba-aba6-093447e9fb53,"['freelance', 'investment', 'freelance']","[5733620, 2851955, 8432453]"
+db64c1ee-7c3b-4712-aa89-26770c51a883,"['bonus', 'investment', 'freelance']","[3041150, 9477633, 2329751]"
+8921f9a8-88e2-4c5e-b7ac-893141ce2162,"['freelance', 'bonus', 'bonus']","[2727404, 4097404, 296587]"
+b72960e3-13cc-412e-9572-c555f6c6a1f7,['investment'],[2651726]
+b20b4d6e-84a5-4b51-8439-1173712d781e,"['bonus', 'freelance']","[533385, 11441058]"
+f82c6769-b48b-49d7-b56f-881c8040952d,"['freelance', 'investment', 'bonus']","[3551754, 4785623, 3631647]"
+1f2125ea-19fe-40c2-85b4-dee6cce8f292,"['freelance', 'salary', 'salary']","[7242110, 17113950, 14553346]"
+e8b843b8-a4cf-432a-89ab-a2c2b34e8dd9,"['investment', 'bonus', 'bonus']","[4066619, 623128, 1716085]"
+ce761d9a-d2ee-431c-87b1-0aa2b7ceac23,"['salary', 'freelance']","[5796320, 11526624]"
+debbd224-fdd6-41b9-8529-bd26e16dcfa7,"['bonus', 'investment', 'investment']","[2866177, 5130607, 2398134]"
+badeed76-821b-4447-bc99-cee481892b8e,"['freelance', 'bonus']","[5228958, 2972431]"
+b66347fd-5e8e-48b5-be61-dd5bd1e48613,"['salary', 'investment']","[20806586, 1805555]"
+e0d13b47-eab8-4236-b8cc-85cde5c3370a,"['bonus', 'freelance']","[3318774, 5979293]"
+3fc69557-6074-4371-979b-8fe9fbdfd4d5,"['bonus', 'freelance']","[1286381, 2817809]"
+0eb379be-619b-4d65-9906-45d1b58e1a94,"['salary', 'freelance']","[8934734, 6440583]"
+a9dddf99-fa5c-4cc8-a9c5-de400fed6b1d,['freelance'],[3805990]
+e1833c14-7009-4481-be0a-6c24f2c93563,"['investment', 'freelance']","[9936625, 11972824]"
+9e6b752a-329a-4624-bd1f-934114c625c9,"['freelance', 'salary']","[5626302, 23956938]"
+604821b9-95bb-4954-8115-e09f003fb51d,"['freelance', 'bonus']","[4265619, 4759749]"
+9ee42fe9-30ed-4100-bd55-a9875db7bd12,"['salary', 'investment', 'bonus']","[18797337, 7195006, 1929524]"
+0fde6ec9-2aba-4d0a-87c2-fc47a6544a0d,"['freelance', 'freelance', 'freelance']","[7319395, 2327677, 6245437]"
+a5869b69-52a7-49e1-8a2d-010909a3c058,"['salary', 'bonus']","[10614310, 2526996]"
+0165411a-6390-4445-9db5-6481e7e61a19,"['bonus', 'bonus', 'freelance']","[1538923, 1104943, 8589625]"
+ee98f753-c4ba-481d-8d1c-1c6d709026a9,"['freelance', 'bonus']","[10253369, 2292624]"
+8b616f5a-92b6-4410-9142-8149cdd6005d,['investment'],[6847605]
+966419fb-6cc9-4e7b-93b2-a4230c873100,"['investment', 'salary', 'investment']","[9199212, 21895422, 8013934]"
+8e3106b5-573e-4a91-9127-519be22d1826,"['freelance', 'investment']","[7877017, 1282904]"
+dd82e484-c852-4315-bc1c-ce4d16a6db15,"['bonus', 'bonus']","[2327038, 4514369]"
+d80f9f51-e008-4005-b454-936e8ca76ea3,"['salary', 'freelance']","[18680212, 4391486]"
+d044a5f3-a0c4-4ef9-8187-d77b1e36d035,"['bonus', 'bonus']","[1362187, 1969262]"
+0985ab0c-9766-40dd-8aff-4467bf9425aa,"['bonus', 'bonus']","[588598, 1055371]"
+0adffd08-eefa-4ac9-8750-1e7f6583339a,['bonus'],[2300745]
+047d7464-01c1-4bbe-bac3-1c2cd8bb78ba,['freelance'],[6217194]
+ae069600-d62a-47c3-bb38-eb6a4390ef5a,"['salary', 'bonus']","[16852423, 2554759]"
+f1986ff8-ed83-4ec7-81aa-75ced47489a9,"['salary', 'salary', 'freelance']","[6646413, 14624605, 6344935]"
+834341d5-7f18-40f3-8556-6c8506b95cb6,"['freelance', 'salary', 'bonus']","[6108754, 17468755, 3517154]"
+5ef81bff-3aa6-44ea-be8b-62a14b6a378d,['bonus'],[2814399]
+39d3c73d-1948-4ae2-8e16-38ff3afca50c,"['bonus', 'salary', 'salary']","[2503556, 10973739, 23836003]"
+4df5d8f6-4548-481d-bd93-205e8f401cfe,"['salary', 'salary']","[15686301, 16025328]"
+ab1e0028-7d9a-4544-af07-f0f13f2845b1,['salary'],[20486083]
+43ab2919-72e9-4df8-a7e9-eafae3e3b10f,"['salary', 'salary']","[5601031, 17863352]"
+d7ed31ff-181f-4437-9671-2ae64ed480b9,"['salary', 'bonus']","[8582105, 2900509]"
+375c3cb3-a101-4bab-8ae9-80048f971d85,"['bonus', 'bonus', 'salary']","[832758, 4905066, 9530533]"
+a888fca0-7881-43c7-b203-2cf719738587,"['investment', 'freelance']","[8784473, 3229422]"
+f76f434c-7b9e-4c58-9842-42be07aee340,"['investment', 'bonus']","[3849151, 1676738]"
+ec83413d-5c88-4e3f-bf04-b48cd65c2023,"['salary', 'freelance']","[12608098, 7933610]"
+926880bf-6e89-4071-adec-5e64187ed9e6,"['bonus', 'salary', 'bonus']","[2817060, 17605844, 3958937]"
+34d2f068-6680-45a1-acc5-ecd510f5bfc9,"['bonus', 'bonus', 'investment']","[4725104, 4411399, 749259]"
+049ee5b2-0325-40c5-b99b-c49be25953f8,"['freelance', 'freelance', 'bonus']","[10146635, 3737737, 3299098]"
+68a74736-b756-4ecb-820a-07381cdb8128,['bonus'],[450374]
+0da89158-bc89-4bff-89ff-d96bee84e280,['salary'],[20251026]
+2d517dc0-31b0-4a86-a8fc-6448d8d476a8,"['bonus', 'freelance', 'investment']","[3461205, 7038269, 7406096]"
+d3332649-b660-47ff-a424-268eed4db856,"['bonus', 'bonus']","[3609199, 2561898]"
+b26ec1ca-940c-4fa9-9c75-5c77294bd079,"['freelance', 'freelance', 'salary']","[2426979, 8558675, 20853007]"
+ec8fcbec-e5ad-4e40-8d61-20fa89ef3f98,"['freelance', 'bonus']","[5396222, 1886261]"
+9a842d92-e55b-4f48-a104-ced56321d711,"['salary', 'salary']","[8281088, 13382273]"
+f2cfefbd-80d8-415f-8af8-e256e5e98ade,"['investment', 'salary']","[1377666, 18474723]"
+9b9325c4-a850-4415-9806-4f461e3466f4,"['bonus', 'freelance']","[2282835, 10233335]"
+597502dd-42e6-4c2b-9c9a-b92c2a8d3cf1,"['freelance', 'investment', 'bonus']","[8246000, 1207464, 4113153]"
+1ceecd2b-ddcf-4166-af4d-cdff90fcd6cb,"['freelance', 'salary', 'bonus']","[2481432, 24363021, 1516615]"
+2cf3c29d-83e7-4f26-9b3c-22741fb39cd6,"['bonus', 'salary', 'bonus']","[2950192, 7755004, 1924943]"
+98efd244-014e-407b-8ba1-f903500ff080,"['salary', 'freelance']","[24057821, 3374831]"
+f568093f-1d5b-44e5-ba31-69548b25cd90,"['investment', 'bonus', 'freelance']","[6100200, 4456342, 8958078]"
+534ee844-c050-4ed0-b6bf-c4a2aa5238fa,['freelance'],[3358474]
+85c11ea3-73f1-4362-b2be-688bce26d74e,"['salary', 'investment']","[14836337, 2738729]"
+69d00ffe-46c7-47a9-846b-940c6e9f3aae,"['bonus', 'bonus', 'salary']","[4483276, 3405822, 11948604]"
+d0264e7c-ab3f-4799-ab4f-ab6728d04664,['investment'],[2418333]
+101ace25-8aa5-4b5d-af32-f2067ad3e445,"['freelance', 'freelance']","[7869529, 11408427]"
+8362435c-8bf4-4cbc-8ae9-b0a8e94ae8ba,['investment'],[2898557]
+0384fcf5-5cf5-4dff-8894-0d258bf5e4ec,"['bonus', 'bonus', 'salary']","[2486482, 4686708, 19805082]"
+a39b07e9-ee4e-4cc1-a1dd-b8b49c8728a4,"['investment', 'salary', 'bonus']","[6666046, 22984638, 1713636]"
+56c44beb-f859-4a67-b1d9-ec5b9939ac67,"['investment', 'investment']","[9750116, 4415032]"
+6fba77ad-9419-4d0e-9dba-35a8ef311017,['investment'],[793512]
+98d86664-c23b-416a-a49b-0c7240fc83b2,"['investment', 'salary']","[2097631, 8282131]"
+7fbd61e8-b11c-479f-bcac-314b16c7c470,"['investment', 'investment', 'freelance']","[9491181, 5287167, 4733079]"
+5b1ccafe-0109-49df-9887-eb3d01b568dd,['salary'],[5506760]
+d2d9f73d-f9f3-468e-a756-305c62939fdc,"['salary', 'bonus']","[12226315, 2984108]"
+c4596ecf-b549-4e12-a6a1-a1464c98de53,"['investment', 'investment', 'bonus']","[2228054, 8688644, 3235229]"
+0f51edd0-ef66-4ac0-b17a-e7637b2e82e6,"['bonus', 'investment', 'investment']","[3237950, 5622360, 3876080]"
+5a0c6b64-5f56-4a7a-8514-041ad01c3c48,"['salary', 'freelance']","[15954750, 3867487]"
+66eb3f04-39c0-4b31-84d0-7c76f4545ca6,"['salary', 'investment']","[6480130, 2896906]"
+5ed9ba34-a357-4840-b9a0-9a98201511aa,['investment'],[3575842]
+9bedf1eb-570c-405e-b0fd-57b54b2a0162,"['freelance', 'freelance', 'salary']","[6420150, 3751439, 19188820]"
+11ae0c21-073a-486f-9e7a-d02895b6172a,"['investment', 'bonus']","[4614604, 1076361]"
+ef4caa63-5ed6-416b-b7c9-1f19c9219ac5,"['bonus', 'salary', 'freelance']","[2933530, 13155387, 8364659]"
+19919be4-046f-4a37-8fe2-93883fab30af,"['freelance', 'investment']","[10690172, 8217129]"
+860d2dcf-0a65-4470-be1b-1ac6d43b7680,"['freelance', 'freelance', 'freelance']","[3100646, 8064715, 7469023]"
+e0f8a26d-9ec7-45dc-b935-17ecc62e8468,['freelance'],[2797204]
+978d154b-2a01-452d-a6d9-6baa52806c56,"['bonus', 'bonus']","[1217122, 753351]"
+948c52bf-af88-471c-a8d5-312282bc15a3,['freelance'],[4661969]
+1396746e-0a46-4ead-ba05-6a328ae4a29a,['freelance'],[6716546]
+ef260ed5-41f8-4d11-9a57-bfd1bff2659c,['freelance'],[11074879]
+e76c61db-79a5-4d53-8f27-b9cb2b0353d0,"['salary', 'investment']","[11905650, 7566320]"
+13fa3433-e757-4e87-9c98-435c8868af0d,"['salary', 'investment', 'freelance']","[13914942, 3562721, 6015686]"
+c92b5511-d122-4d50-b6f4-009fcefeb49d,"['investment', 'investment']","[2490150, 3978817]"
+3146ef94-dc42-4393-b5df-ba163fe22ea3,"['bonus', 'freelance']","[2047847, 9307588]"
+ac805ead-7709-4319-bd7b-1e2fe07ae535,['bonus'],[2528597]
+30817e50-6b6e-4867-a4d6-df654f1c06e3,"['investment', 'investment', 'investment']","[3138778, 2267853, 3637509]"
+ef9dfa21-80d9-4146-80e8-5a011f9ee248,"['freelance', 'freelance', 'salary']","[3622645, 3862553, 7337522]"
+58b022b9-79ca-4055-80ac-61ee1f8a8472,"['freelance', 'bonus']","[2745128, 483083]"
+e73a809a-0e53-4a60-b0ce-069779cc9728,['freelance'],[8495154]
+aa52f1ca-c784-4867-9d46-3dfed73668d3,"['bonus', 'salary']","[4239962, 18442095]"
+82292b37-56f4-471b-ab7a-c7c1baa1cb76,['bonus'],[401138]
+e8bab081-08da-4e8e-ba88-96ca9242e672,"['investment', 'salary', 'freelance']","[6279921, 16676429, 10005399]"
+b598895f-8613-4a9f-9103-d3d2c6d640db,"['investment', 'freelance', 'salary']","[3493785, 2439877, 16577228]"
+83033f58-e737-4e0e-92de-7bbed79a8eb9,"['freelance', 'salary']","[2311220, 6754752]"
+17177716-19e9-4af0-92dd-8d6b3c7ed9ca,['salary'],[24629902]
+a663d05a-4ab8-4e9e-95cb-8d27c264ab4f,['investment'],[1140436]
+c33e280a-02ee-45bc-bbbc-793e9be9e5c9,"['freelance', 'investment']","[6253871, 842161]"
+e3e24141-c786-48bf-92d2-e7f7a47085a2,"['salary', 'salary']","[5469253, 7039690]"
+249fc1f6-1fed-49b4-afef-566f8f0e494e,"['salary', 'bonus']","[14494274, 2343505]"
+cdcec394-625a-4908-a038-ff13c51025f4,"['bonus', 'salary']","[1540361, 19815345]"
+2ae2e665-8ea6-4d53-986e-6c228ff39fce,"['freelance', 'bonus', 'salary']","[6036195, 1057526, 21657531]"
+e563ca02-3fbd-4010-aced-dc78f8335ac0,"['bonus', 'investment']","[3529791, 8394104]"
+12da48aa-0163-4eca-a623-3662c540bdba,"['bonus', 'freelance', 'freelance']","[4206879, 5859454, 10262673]"
+3e5bba10-fe75-4212-b7ad-453ecf39b57a,"['freelance', 'investment', 'freelance']","[7547180, 2491701, 6578660]"
+706abbe1-abf6-4830-8fa7-b5f84457350d,['salary'],[12093483]
+726448d8-5b4f-46fb-9d99-1ca055965ba9,"['investment', 'freelance', 'freelance']","[3360436, 3126198, 5482133]"
+89ffb5d0-4d71-4626-bfcf-f6f0112e3205,"['bonus', 'investment', 'bonus']","[2300215, 8387562, 2075039]"
+106f974f-40b0-4075-be02-f38969c350e5,"['bonus', 'bonus', 'investment']","[4622646, 607418, 2560428]"
+4cb9fe84-d4a4-478f-b940-1d84d2ba2279,['salary'],[12545312]
+85ad3f5a-16ad-4f7e-8a50-bf81fd299777,['salary'],[24256859]
+10a89583-8683-4e9e-a367-57bdd4e39c52,"['freelance', 'freelance', 'bonus']","[4186305, 2959894, 4972719]"
+545cb140-f537-4650-ba2f-5bd75af3cbeb,"['bonus', 'bonus', 'salary']","[3433041, 3134804, 18957828]"
+62badb53-ac77-4382-83fa-c589bc575e34,"['investment', 'freelance']","[9007202, 3394797]"
+c06870ee-a22f-420d-b7cf-111b533ff433,['investment'],[5921944]
+5e293f45-4177-414c-810b-7e843425f1a0,"['investment', 'salary']","[9221914, 8143013]"
+8abce1a3-8388-45ce-b52f-a0ec18178c22,['salary'],[15557271]
+c5a7861a-e747-4cec-bcac-f5a9f05261bb,"['bonus', 'freelance', 'salary']","[1969872, 7377464, 9843066]"
+9dbc4ab7-1674-467f-b7dd-74280184c47a,['salary'],[15906552]
+6acf549c-098f-4ba2-a255-3abb3062958a,"['investment', 'investment']","[9950001, 3722758]"
+05cf84f7-d537-4350-94b6-36e68edf924e,['bonus'],[1914953]
+f818b575-ca6c-4679-ae52-c3505a178e90,"['salary', 'bonus']","[18340542, 1679991]"
+68c2f7f7-c35c-43c4-8d17-f6d53f7a5f8c,"['salary', 'salary']","[14166498, 19608398]"
+e2e94cf9-a725-4a0f-9f3d-953f09e17b26,"['freelance', 'bonus', 'salary']","[10530620, 4615191, 22838254]"
+551e1040-14e9-411c-ac05-6f64453c2916,"['freelance', 'salary']","[7638831, 10897895]"
+fa602c9a-4d84-4dc2-86e1-0a69315ff98a,"['freelance', 'salary', 'freelance']","[10488307, 15703742, 11567064]"
+64315c6e-5305-4c43-94d2-c0e7d3aff3a6,"['salary', 'freelance']","[8175531, 7782602]"
+6dd64558-dfc5-4dfc-a13f-7146f626c40f,"['bonus', 'freelance']","[1136456, 3691785]"
+7ac03d8b-15ee-403b-9338-01552a849f4f,"['freelance', 'freelance', 'freelance']","[10964483, 2399801, 8278983]"
+15160f11-d0de-4db1-bdd6-95c510129f5d,['bonus'],[4143269]
+bee1cd89-4292-4232-a9eb-aaaae46044dc,"['bonus', 'investment', 'salary']","[2718437, 2725588, 17230576]"
+d43c1d15-adf1-483f-be9e-e87f008db4c1,"['investment', 'freelance', 'bonus']","[6596153, 5059138, 2012524]"
+a6c4b09f-41b8-4830-bd20-493440ac3e2c,"['bonus', 'freelance', 'investment']","[844910, 8570349, 682186]"
+8651b322-1685-404c-beab-c62f9834ff91,['freelance'],[4848373]
+6d64bf9e-37c3-4850-9e40-14b672896105,"['freelance', 'salary', 'freelance']","[4732275, 11942276, 6148732]"
+f3347c71-cde5-43bc-ac56-725cbba06a0e,"['investment', 'investment']","[4721448, 9384853]"
+b3972752-4381-44c3-88f7-eafe0087477a,['bonus'],[672150]
+95cd07b8-d571-4920-bf53-41e3da779efa,"['freelance', 'freelance', 'freelance']","[11487700, 4069236, 10833865]"
+22c32775-e8bb-4727-b4ff-f2d194d24007,['freelance'],[10611854]
+28c02cb9-ab84-470b-bd97-e380d2644d7c,"['bonus', 'salary', 'salary']","[4151183, 19437812, 22868349]"
+cb5bb287-b228-47f5-88b1-af59373c02d7,"['bonus', 'investment', 'salary']","[2188349, 1924181, 12696904]"
+350e2ea6-c26f-4382-91ea-87a16d7f1a0f,"['investment', 'investment']","[6225455, 5949268]"
+577a9021-47c2-4285-af15-7df4672d453e,"['investment', 'investment']","[6731048, 2096583]"
+c893eee1-3227-4bf9-b664-5164b013e409,"['freelance', 'freelance']","[10624385, 6936172]"
+16c5a313-2d08-4b26-8011-192d1941c585,"['investment', 'bonus', 'investment']","[4202494, 4654619, 6519552]"
+6abdefd7-f597-4447-9d54-c49d900fa6c0,"['freelance', 'bonus', 'freelance']","[7255310, 3930731, 3460666]"
+297d30ed-1e91-4636-bf1b-be77281a9cd1,"['investment', 'bonus']","[1745327, 4128268]"
+8fba9599-fd4d-4d44-a192-3676583527b5,"['bonus', 'freelance']","[2177879, 3127090]"
+4df85698-52a3-45c7-b821-94a9a1498ea9,"['freelance', 'bonus']","[6220535, 2275034]"
+59d1693d-9d1d-4608-868c-03f6dd20f784,['bonus'],[1003078]
+abb57960-452b-4d02-80ae-0b3179a51f48,['investment'],[4473540]
+ae567781-aed4-4f2f-b012-5d4028dd8a89,['salary'],[23913991]
+23be1fdd-8e81-4e83-9299-7ceb86da54ed,"['salary', 'bonus', 'investment']","[17796397, 1488002, 6725797]"
+f6d4ac43-7185-4f75-9647-0ad3c697ac49,"['salary', 'investment', 'bonus']","[19632566, 4374590, 1688358]"
+e56aaf38-fa92-4488-83ce-f74e35f9e2b7,"['bonus', 'investment', 'investment']","[907850, 4655922, 4092389]"
+889f64ee-3b9f-4782-ab55-ea3033231809,['freelance'],[7704975]
+c8f59362-c6de-4ff1-9257-d2e205243ff1,['freelance'],[5418332]
+48112141-3113-4c89-b916-ad9137f202ba,"['freelance', 'salary', 'salary']","[9855757, 23376654, 18068491]"
+52f498ad-3bf4-4218-8174-f1bdfda381c0,"['investment', 'salary', 'salary']","[5448145, 16274732, 6823276]"
+3a60b8b4-5c32-4ba8-b8d0-dd85b8c75346,"['salary', 'bonus', 'salary']","[24479554, 619527, 12112209]"
+94b915dc-5960-4310-b97d-edab942f7551,"['salary', 'bonus']","[15808431, 1738454]"
+e6b6436c-e6e3-42f1-95ac-88479d33ca94,"['investment', 'investment']","[5913451, 9684429]"
+30108baa-7748-47ba-9daa-f5c13f211394,['investment'],[7126263]
+1b508042-5f95-4970-a73a-d8fc847d8274,"['bonus', 'bonus', 'salary']","[3942556, 1480405, 22179703]"
+08e21b62-0aea-4a63-bfda-daf8a1c4ee15,"['salary', 'freelance']","[13994770, 9188161]"
+f09f0257-0801-4e0c-a4ad-ec194dba7284,"['investment', 'bonus']","[4354945, 3175129]"
+dbc1edca-ba66-49cf-856c-f7fb22098e4d,"['salary', 'salary']","[15388027, 14395275]"
+b1f1e776-1c67-4869-adcf-250a2ae4b18e,['salary'],[19701645]
+d5d4be3d-2165-44d7-a0ff-6fa48027422d,['investment'],[5983086]
+6bd205e6-111b-4616-970a-5da71e2276b4,['investment'],[3235615]
+5c6e76b3-f314-4c74-88b0-e1e8c5ccbbeb,"['salary', 'bonus']","[8279531, 4819444]"
+7737db1a-aeb8-42cc-95f9-c77b81a8d7ee,"['salary', 'salary']","[13851639, 5167549]"
+c1ec5fbe-763c-443f-a055-54bf75ead644,"['bonus', 'freelance']","[1301426, 5972968]"
+56a0567c-7a43-477c-bb9b-259191b826bf,"['freelance', 'freelance']","[9020820, 2887887]"
+3e10fa66-3bb8-4434-ae92-1a6264e5ee80,"['investment', 'salary']","[8905310, 13678768]"
+f515b122-564b-4fa4-90d0-998a7c2e7e85,"['salary', 'investment']","[24878568, 8940223]"
+2f715cb5-72ea-429e-8faf-38c0dae3cc25,"['freelance', 'freelance', 'investment']","[11758814, 6731458, 3750812]"
+337acb1b-f291-4936-9777-4b2e9a533908,"['bonus', 'salary']","[2650619, 15837669]"
+83e9b26d-0460-4e2a-a009-d66ec6f4955c,"['salary', 'freelance', 'freelance']","[18282884, 2451150, 11388969]"
+e8aed256-2524-478e-8387-f641371a2115,"['bonus', 'salary']","[424815, 9123306]"
+b400b22c-8c2b-4bca-86ea-96460ff35f78,['investment'],[4133129]
+183141e2-e3d9-4ace-a877-1b677e5d88fa,"['investment', 'freelance', 'bonus']","[8675357, 6275504, 3784209]"
+3333730e-2fa1-43a5-b95f-c32f7880338f,"['bonus', 'salary']","[1025077, 5838570]"
+9217ac6b-0990-4d3a-bf65-32d9a61c8f80,"['freelance', 'bonus', 'bonus']","[5625901, 558502, 2068714]"
+5fd6c877-f80b-49d4-8dcb-4c6b7d2668bd,"['freelance', 'investment', 'salary']","[6019609, 4252617, 18759908]"
+72c8931d-6ac9-4e8a-9d3f-758aa5d44525,"['investment', 'bonus']","[2227458, 2208309]"
+51a94ed1-9581-4731-a4e8-0e2daf6c996f,['investment'],[7117338]
+71ddd5e9-ac79-4c0e-a1e4-1a24f5bf186b,['investment'],[9508514]
+18794cd2-4412-47ed-b1a0-b5323540c170,"['salary', 'freelance']","[15654024, 8753936]"
+efd59591-2cc0-44f1-bb17-d2ebcd382291,"['bonus', 'investment', 'salary']","[710059, 3640523, 19815644]"
+852d7932-e682-4ab9-9843-ac681b338e09,"['investment', 'investment']","[5080455, 8665340]"
+bba33d6b-e2b9-49b9-b913-949e8b8b3f84,['bonus'],[4848518]
+987cd4c4-130d-410c-a63d-406af4799a02,"['bonus', 'investment', 'bonus']","[3374815, 8106668, 2915190]"
+1b21f05b-40de-4273-b8c1-4a0ff1aa4b48,['freelance'],[2556044]
+d4f938a6-34f9-4a72-842e-6cac30bce698,"['freelance', 'freelance']","[3738354, 5347675]"
+df6f14b8-5ec4-4a5a-9aa9-f961c49bd6cd,"['investment', 'bonus']","[9703830, 3694366]"
+100a2f37-9716-4647-a7f2-a553b6dfb64a,['bonus'],[1076732]
+10598759-e052-4978-a972-78f21f82acf1,"['salary', 'freelance', 'salary']","[12971377, 10991964, 16717121]"
+b1dcf2be-c568-49a0-a893-1f2fec27c30e,"['salary', 'freelance']","[18744619, 11965331]"
+98ccf484-58d1-4b33-b18d-72fc09998fd0,"['investment', 'salary']","[1734779, 7282029]"
+54cb31d0-d8e7-4f6d-915a-761266307474,['freelance'],[3195445]
+590cd986-9c72-4f56-8f87-4d7f709bac94,"['salary', 'bonus', 'bonus']","[12380302, 1543249, 971168]"
+159885c3-16a2-4d20-94f7-57c533830a8a,['salary'],[21009332]
+8f1c0be9-7417-44e3-9024-104a35f580ff,"['investment', 'salary', 'salary']","[9261354, 18590371, 21742423]"
+81a554eb-d13a-4411-8f22-d7995629b70a,"['investment', 'bonus']","[8841282, 1911049]"
+8c5e6cba-ef22-446a-8995-e535ec9025ea,"['bonus', 'investment', 'bonus']","[2408237, 8400579, 326026]"
+9d474c6d-5bf8-4519-8f9c-c9c6decd0d32,"['bonus', 'bonus', 'freelance']","[2225492, 1662177, 3985433]"
+5f058e87-476a-4460-9d01-55b68d3f0c5f,['salary'],[20397407]
+a2414c57-7bd4-4148-abd8-c758929bad8d,"['freelance', 'bonus', 'bonus']","[5757141, 2125113, 281581]"
+72579641-0f2e-4faa-ab4e-e40a079176d2,"['investment', 'salary', 'bonus']","[6099685, 14374676, 3575971]"
+eaf8a8ab-39fd-49da-83f8-a1468ba095b0,"['investment', 'freelance', 'salary']","[8238682, 7374375, 7196860]"
+b077e211-cf45-4b65-bfaf-a78a25310910,['salary'],[23024897]
+83074ed8-b38e-4fdf-b2ed-320ca9d48430,['salary'],[6992685]
+4003f4e9-3348-4c4a-a4a3-02b1db46441e,['investment'],[2284895]
+6da42ae5-917e-4e1e-b517-d908512bf970,['investment'],[8240104]
+26f6423c-5e97-4de0-8267-54d05a039390,"['bonus', 'investment', 'investment']","[1455441, 6151706, 5728139]"
+53547a7e-bb03-4948-9f1c-f9d05e74d442,"['freelance', 'salary']","[7837629, 20986025]"
+bb5ae2f6-0ae9-447e-9926-c5cffe2b350f,"['salary', 'salary', 'bonus']","[9039235, 5518991, 3236569]"
+1667e6b3-0653-4ff6-a2b0-846d53da7402,"['salary', 'investment', 'bonus']","[21504946, 8632562, 2519723]"
+5caa496f-c3f8-44d1-8855-47a1b6c10e8b,['bonus'],[3354911]
+c1fc6e48-bfca-4a6d-8ca9-b3def053806a,"['investment', 'salary', 'salary']","[2962726, 6313579, 14940969]"
+61a9579b-21d6-4942-8edb-814a8deb9fa9,"['salary', 'investment', 'freelance']","[18018646, 2519047, 6435535]"
+8b7f9ad2-3f67-4feb-a928-35fc754dfc8e,"['salary', 'freelance']","[15542133, 5692194]"
+2f51cb15-02f9-44ec-a021-2ec4c3e26ced,"['investment', 'investment', 'bonus']","[9372151, 5578327, 370507]"
+763f3ba1-e132-4b91-99e9-8816327aafd7,['investment'],[5821909]
+1b42bcea-0404-49e4-8240-17e62fb6ae11,"['salary', 'freelance', 'freelance']","[10503182, 10920039, 3490744]"
+513393a0-8fc4-4abe-aa45-75c313af2c54,['salary'],[17073057]
+3b48695c-73b1-4b7c-929a-45ff6b1e3f1b,"['salary', 'salary']","[12597743, 17753000]"
+dc0a9700-10d4-47a1-a417-b7ded025b512,"['bonus', 'salary', 'freelance']","[2653339, 20273414, 4646818]"
+a9ed2019-b569-4e7c-89eb-1fcc8f0f8dea,['bonus'],[402096]
+4bc5cdff-f960-4e58-a787-c0318693043b,"['investment', 'investment', 'freelance']","[8273370, 1145238, 5470629]"
+f299b462-ef0b-48d6-ab5f-8443007307ab,"['freelance', 'salary']","[4163882, 17971201]"
+ab12748e-3165-442e-9ece-3a79dff66d1a,['investment'],[2392843]
+d571544f-93c5-47b0-8ac7-fda3a75d33bd,['bonus'],[551627]
+0e7261e8-ec58-423c-9082-479baaf651fb,"['freelance', 'salary']","[6385018, 21981251]"
+528471a2-7862-425c-9582-78e82192e83d,['freelance'],[10511332]
+be191b7a-9346-4d1a-b510-8bdbb325c884,"['freelance', 'freelance']","[7045998, 2409473]"
+b617c5bd-5e89-4342-b310-343fe8350ee9,"['investment', 'salary']","[6673520, 17699360]"
+1927f4d6-1af1-4535-b70b-a603bba272d7,"['bonus', 'salary']","[3202759, 23652900]"
+f9a3da6d-cf9a-462f-b871-4cf428cf04d5,"['investment', 'freelance', 'investment']","[8629181, 3294634, 2600120]"
+c69ea575-237f-4c96-9ccd-cd66bc8f91f8,"['investment', 'bonus']","[9977172, 674676]"
+b8af5e67-481c-4338-a788-128a757a7c08,"['freelance', 'bonus', 'salary']","[9122238, 3023136, 5847901]"
+fdc4d6d0-8873-4b3d-b997-0d1d9140a7ad,"['bonus', 'investment', 'freelance']","[495261, 2031211, 2145362]"
+066b14b4-9ea3-48aa-9d6a-10358a7e3b15,"['bonus', 'bonus']","[494181, 362686]"
+152ead8a-b21a-4c05-8880-4e9224f7bf9f,['investment'],[1721426]
+e2d123d3-9061-4fcd-a806-4d81328587b1,"['investment', 'bonus']","[4549025, 1877889]"
+83f3b395-b1f2-455a-bcdf-342e68bb30cc,"['freelance', 'investment', 'investment']","[3104508, 2161859, 7590847]"
+01c0c7f0-aed6-488c-8344-408f8ce3186e,"['bonus', 'investment', 'freelance']","[2960743, 6313299, 3344486]"
+734ba69f-ef08-4f27-9cfc-35ce46b12a25,"['salary', 'bonus']","[24579185, 689239]"
+b6bdc831-6c46-4958-834b-b145126de15a,"['bonus', 'investment', 'salary']","[1412451, 8885613, 22091960]"
+0068621e-199e-4126-a10f-cff3f3219812,['salary'],[10146122]
+27b06261-6c8a-4d27-8ba2-d8fd982bfecb,"['investment', 'freelance']","[7810514, 10017090]"
+96b15519-a73f-45f8-9afa-3632b2b20e20,['salary'],[18409592]
+f3da5b33-d09b-4eb5-b1ca-e04c6c91e4c2,['salary'],[8111688]
+bcbf20d9-f4d8-4b00-a30d-ceff046b1a5c,"['investment', 'investment']","[4014832, 2730028]"
+4549eb79-2934-4ab8-940f-3c9c3f5b6427,['investment'],[5028233]
+6a325b5f-2392-4d34-a841-f7605db520da,"['bonus', 'investment', 'salary']","[3056287, 2785744, 18524812]"
+c8952f1f-19bb-415e-86da-c10cbbf70e27,"['freelance', 'investment']","[5748231, 7948547]"
+cba319aa-8c53-4b84-a42a-f947b63a6d83,"['salary', 'freelance']","[15425414, 5800231]"
+a954bfca-e14a-4c46-9456-1007ca733475,"['freelance', 'bonus']","[9668907, 4139980]"
+abe7fd09-4b50-4584-af12-b97e80313b88,['freelance'],[4768047]
+712e046c-e7f9-499f-b7cc-96c0dff747c1,"['salary', 'freelance', 'investment']","[24726474, 4101128, 9235592]"
+7f7cf4cd-e548-4f27-be89-6ee17904ee33,"['salary', 'freelance', 'salary']","[20309946, 11130514, 24725136]"
+2ff29234-97c2-4660-8f25-85bebdcbbd1c,"['bonus', 'freelance', 'bonus']","[2405647, 10362594, 1317035]"
+f73771b8-9adf-4aa4-9902-7cfd803cf815,"['investment', 'freelance']","[5288854, 11293099]"
+d914d8a6-a581-47e3-ac02-652da492cd37,"['freelance', 'freelance']","[3075447, 2277161]"
+6de35c0a-881e-4748-affa-8a2d6190c74d,"['freelance', 'salary']","[4141788, 24054465]"
+a160f151-2fa9-4db0-9aec-4667c4ef6ddf,"['freelance', 'freelance', 'salary']","[10377329, 6574915, 5334335]"
+54c04458-9c4a-48c5-80ab-fd1282250ec6,"['investment', 'investment']","[5024548, 9516674]"
+12c4d535-9dea-4094-b1fb-4d8a4e0d9679,"['salary', 'salary']","[18882627, 13450750]"
+d886e2ae-9e18-4afd-ad12-4185ef8d3e6f,"['bonus', 'salary']","[3550905, 19476512]"
+5a15e376-b26f-4835-9c7a-cd7820ed7729,"['salary', 'bonus']","[22390847, 3503052]"
+ba18272b-25a5-4fe8-91fa-449bd6edb134,"['bonus', 'investment']","[1861239, 8947352]"
+0b2a49a9-7235-4f47-845c-e116592ad2ee,"['bonus', 'bonus']","[3657308, 3970421]"
+3e298277-2569-41f3-957a-617dceb21780,"['freelance', 'salary']","[6099323, 7095407]"
+d020f6ff-5927-4a48-a68d-97ea568f6914,"['salary', 'investment']","[8092106, 5079186]"
+23745c63-2bd8-48e7-b9ac-13ab3fb56c15,['salary'],[10324197]
+d2cc218d-f2c1-40d5-ae51-3a66696fad3f,"['freelance', 'freelance']","[3654245, 7672748]"
+8610e657-990d-4ab8-bcb8-6565511aa9aa,"['bonus', 'investment', 'freelance']","[3882214, 4106755, 8023410]"
+2ada6522-5570-4695-9dc8-4648ea9b871e,"['salary', 'bonus']","[10547969, 1275301]"
+fba2a3ed-19fd-4650-ac22-8b1caf8ce308,"['investment', 'freelance']","[510814, 8102470]"
+bead3644-21f7-4b71-b48a-7c4de1c710c8,"['investment', 'investment', 'salary']","[812612, 9044089, 14830907]"
+019e8ccf-1214-4da4-8059-b7927029a885,"['bonus', 'salary', 'salary']","[2304682, 10631928, 9701979]"
+ea33b338-07ef-463f-ad21-01b002686d62,"['investment', 'bonus']","[9627207, 2856605]"
+3bf0b534-2dbb-4e24-a6b1-1a6ce0b4aca0,"['bonus', 'salary']","[773410, 19234220]"
+d46d3120-b33a-4f40-9b8c-9c1291a96369,"['freelance', 'freelance', 'bonus']","[7228034, 5469413, 4139255]"
+08a7c9e3-fcc5-4c8e-b38a-09134d721184,"['salary', 'bonus', 'freelance']","[12271618, 2778050, 11430261]"
+2097ca90-8de7-48e8-81da-bbb48933b6eb,"['bonus', 'bonus']","[1211822, 4080092]"
+947715a5-2350-4e65-aec7-d115d5a21f7e,['investment'],[2318272]
+75d82883-1723-463e-aa1d-3d0e39a083a4,['salary'],[12991969]
+f880e8b6-fc77-47d9-9886-110567d97d46,"['bonus', 'salary']","[2448732, 11893995]"
+cc2fda20-98e9-404a-9d87-cc0c2ee382af,['bonus'],[3517617]
+acea5e06-3104-4790-b0a5-6705d16c777d,['freelance'],[3921145]
+d519b784-9102-425d-b4e8-e9628fd44ee5,"['freelance', 'salary']","[9497709, 13678920]"
+3607dd0d-1f7d-4be9-9440-e481e9874f3f,"['salary', 'bonus']","[23623252, 1912341]"
+2b93677f-cda3-475e-8154-9a93335f1cd9,"['freelance', 'salary', 'salary']","[6797538, 5024412, 24220842]"
+795fbd72-e10a-414c-bd38-6f650e50014e,"['bonus', 'freelance']","[4142797, 7281957]"
+8ec8531c-a3ee-4cc1-a190-0b0a2fc2f5f2,['salary'],[24125456]
+b560de92-187d-4a78-ab59-b24fd8f45157,"['freelance', 'salary', 'freelance']","[2798508, 15942639, 11983611]"
+82863f46-38a0-426c-816e-107ddd251796,"['investment', 'freelance', 'salary']","[4846258, 7563469, 12398609]"
+4f5163ae-d4d8-4e7e-bc98-844d628a5820,['freelance'],[8758159]
+33f9e0d2-42ee-48af-9285-19dab235d380,"['freelance', 'investment']","[8217664, 7590625]"
+3e329f52-f638-436f-8886-47efff1778a0,"['investment', 'investment']","[5127228, 5589089]"
+35095809-9aeb-49fa-a14b-8cf1e83f1eb9,['bonus'],[566002]
+d32bdb19-dff6-4ce9-8fff-8db0f85d6698,"['bonus', 'investment', 'bonus']","[3562130, 7822883, 4397001]"
+ee9aafca-d590-4fbf-ac0b-8da57fb153de,['bonus'],[1325499]
+1579ed1c-0246-47d8-80ed-dd411cca8524,"['freelance', 'salary', 'investment']","[10507420, 16969077, 8039643]"
+bbec10d7-dc3b-494f-8771-07585f7a6a2a,"['salary', 'salary']","[23982367, 21336495]"
+90ea6966-8610-4e45-9cde-fda3487bd9c0,['freelance'],[9640381]
+f785caa9-9b20-4ec4-9ce6-a00aebc8a7b7,['bonus'],[3251443]
+a3353714-bb11-4101-a45b-68894c09e3db,"['investment', 'salary', 'bonus']","[6000822, 11818171, 4602377]"
+bc328b0d-e2ad-4faa-b8cf-a4edcc1f409a,"['bonus', 'salary']","[3536550, 11536069]"
+84da39d2-a191-4e35-a8f1-38310de02920,"['bonus', 'salary']","[1490536, 12090925]"
+63086cb7-5ec2-4007-9104-8b0790f18377,['bonus'],[2733452]
+c075d0c0-dd45-4051-abff-a6160196ed26,['bonus'],[3622078]
+8cba2571-d368-446b-b10b-c86f7d088136,"['salary', 'bonus', 'salary']","[22147864, 1036604, 7872488]"
+db510f18-938d-45af-96b8-e54939f441af,"['freelance', 'salary', 'salary']","[9162042, 20488477, 11289587]"
+c4de3fd4-c98c-4767-9eb5-b668ea6842ee,"['bonus', 'bonus', 'bonus']","[3283450, 1903873, 3920410]"
+f25005af-5382-4118-ba43-27e0444399a7,['salary'],[16911489]
+a81300c3-8d08-4173-8977-7aee9ada9866,"['bonus', 'investment']","[1561246, 8446011]"
+dd2c4bfa-ffc1-4c4e-b979-532143601d56,['bonus'],[1188629]
+2eb8b925-40b8-41cc-89f3-68a2f70f02fd,['investment'],[3736435]
+5daaae29-bd32-4ba2-ba99-cef08d1a47f9,"['freelance', 'bonus', 'investment']","[11163984, 1077035, 8824562]"
+9137e373-befa-4ef5-a90c-81c63459ab09,"['investment', 'freelance']","[9852627, 2537256]"
+a72daba5-f034-4634-8ab2-18ddaf3970a7,"['bonus', 'bonus']","[1534366, 406587]"
+3f23cf24-5f5a-4cb0-bca6-abcfbf01e642,['salary'],[8269678]
+0bf623fb-fd66-4c03-98bf-29921f8220c0,['freelance'],[4289487]
+51dfc7d9-f2b3-4b22-b313-3783999c57a8,"['freelance', 'investment']","[11997489, 1891762]"
+ba691fb7-9e99-4a49-b10f-8481a15a94cd,"['investment', 'salary']","[2513789, 7971567]"
+6ec71f69-47dd-421c-a4b7-b81d20c581d1,"['freelance', 'investment', 'salary']","[2865382, 3514751, 20497114]"
+302fa238-9d47-429f-90d7-f3e714c0d7c4,"['salary', 'bonus', 'freelance']","[12083401, 506567, 10951884]"
+f7f9f271-61a4-458d-9532-3164b2bf10e3,"['salary', 'bonus']","[13568116, 4978589]"
+86b3f96f-bed2-4701-8335-78549acbfa67,"['investment', 'salary']","[2844369, 9066738]"
+ba5ee8c4-38e1-42d2-9e25-2bb5513e2056,"['bonus', 'investment', 'freelance']","[1058321, 2139595, 5070930]"
+97ad4ea7-0fde-467e-92d3-4a8d9e2afdce,"['bonus', 'investment']","[998667, 8958824]"
+cd749be2-6d21-40c2-b90e-38b04e9fd73c,"['investment', 'investment', 'freelance']","[6376228, 5865025, 3958777]"
+4819ab1e-a187-428f-8707-1f675b7b850d,['investment'],[2427676]
+61e899ce-0c00-48f4-b88c-3fbb57bb37fb,"['investment', 'freelance', 'freelance']","[3177221, 5187384, 3407415]"
+96552487-d2a4-4566-b071-8b03e592f81a,"['investment', 'investment']","[7353014, 4042358]"
+2f9a0e2f-a615-488a-a5ce-856bbee7cf0b,['salary'],[24158958]
+20596e93-fe76-4b81-b4fb-68963953ff4d,"['salary', 'freelance', 'freelance']","[10727233, 9263605, 11807218]"
+dc61ecf1-9e93-4ea6-b9f4-389a95a9ef2a,"['freelance', 'freelance', 'bonus']","[9170360, 5176446, 3231854]"
+227f0c84-7957-472b-9b49-e464b6c7afa9,['salary'],[19352258]
+db030986-39ff-4dfc-8e77-e70084691405,"['investment', 'salary']","[790125, 6348202]"
+3c707b1c-497d-4b09-ab6d-4c06b22583e5,['W-2'],[950000]
+4ebeaf72-fbc2-41aa-a038-d18576f75054,['freelance'],[8077900]
+624fc3ac-3060-4b84-8c7e-4fcc0d5951dc,"['investment', 'freelance']","[4922107, 9787282]"
+f457deec-72c9-4c31-899a-5907caf8e9b1,"['salary', 'salary', 'bonus']","[11551026, 16877712, 3260918]"
+997579ed-dc53-486e-ac98-5898389f5fee,"['bonus', 'freelance']","[2358117, 9717219]"
+43f3466b-cc61-4150-b528-eb3915648dbd,"['bonus', 'bonus', 'freelance']","[3671433, 3748402, 5189788]"
+dd78c5b4-dbb0-4550-8e1d-3ffa9db8c9c9,"['salary', 'bonus']","[7074491, 882391]"
+3b32848f-3530-4026-8c14-3e14e497584f,['investment'],[4041056]
+cd8667e2-a1a1-45ef-a27a-02904a70c5d2,"['investment', 'freelance', 'investment']","[6827385, 9668356, 6669852]"
+db430063-6d80-4774-998a-bafde5d24eef,['freelance'],[3757020]
+d9ebe876-ef7d-4847-ad55-78625de164e5,"['freelance', 'salary']","[9483676, 16370771]"
+7f911123-f9f3-4d07-87af-352673ca804c,"['freelance', 'investment', 'salary']","[2171000, 8795100, 15029773]"
+054544d7-1c1a-4f27-b8bb-fb6c43ae8593,"['bonus', 'investment', 'freelance']","[1485617, 7755513, 10010817]"
+21918ff4-c93b-4acf-9599-e73f36bf7d0a,['salary'],[19805007]
+4a1e9530-00b2-4cfe-82a0-f6f2330e9ac5,['freelance'],[8891060]
+dfdfb116-d94f-4870-96ab-0d025bc3f53e,['bonus'],[3279613]
+b1effc5d-1c31-4deb-9af2-fac635b32400,"['investment', 'salary', 'bonus']","[6984248, 22796008, 4475187]"
+6a623794-1fa0-4a4e-9d39-3c8b891d1790,['bonus'],[2970902]
+c4f2b937-8e48-4272-bcd2-f4edf95975ff,['freelance'],[9386330]
+cc894379-5aaf-467c-9a88-906b076ec7c8,"['freelance', 'salary']","[2147524, 14241454]"
+70b5f5bc-8f5d-40ab-a6fe-ac8e1dd534ce,"['bonus', 'investment']","[4303984, 3418253]"
+6a76c464-0234-4f07-9e99-954068fb3cb6,['salary'],[21695029]
+a95158cb-9033-44e2-93fb-6380741b9d7a,['salary'],[24588273]
+083345b4-5f3d-469d-b041-97b8a932be47,"['investment', 'freelance']","[3991610, 3058602]"
+7ce1edc8-2d4b-488d-85b0-95a07f2e6295,"['bonus', 'bonus']","[2707347, 1264364]"
+a373a174-2be4-432f-a74e-5ae2019b8134,"['freelance', 'salary']","[9296736, 6982097]"
+7c23c9f9-566f-428d-b226-0020ffdf002e,"['freelance', 'bonus', 'salary']","[6323768, 4732050, 21902774]"
+55832ddb-d477-4088-88d9-87634a15d67e,['freelance'],[8291613]
+c913d51b-edc3-4f80-a84b-d4a34f6a7adc,"['bonus', 'bonus']","[4473193, 3458912]"
+a6ab0ae4-2397-466f-8ad7-b6dab7abfb49,['freelance'],[11204566]
+894cc59a-71dc-45ef-bfd5-de8515b4ac64,"['freelance', 'freelance']","[9920289, 7671478]"
+f5ba688d-73f5-4924-8c85-f25ec544d75e,['investment'],[4658495]
+fca17ba3-07bf-42e0-9467-ea809e079ccd,"['salary', 'salary']","[9806216, 5252618]"
+ba3cfb4d-3fc7-48c2-8da5-e12c0c107052,"['freelance', 'freelance']","[7339760, 10326748]"
+707ca099-576d-4fe2-beb1-2e0da4262594,"['freelance', 'freelance']","[9701723, 10354658]"
+96cce28d-87e5-4b52-b3a7-ba51ab98d6c9,"['salary', 'bonus', 'bonus']","[22610342, 2305159, 4472446]"
+69025073-200c-4b6e-8bd4-560ce00e0b51,['investment'],[5716209]
+f8e304a6-3d68-4901-b072-db7a6ff200b8,"['freelance', 'investment']","[3008686, 1977426]"
+8b7289f9-e40d-4d82-ab48-3d561c3c7732,['bonus'],[2946484]
+c5b4ea9d-0fdd-4398-a970-d877e1efe585,['freelance'],[11063111]
+58b1c75f-e925-4aa7-b2f8-a2daf7d43e52,['freelance'],[5687951]
+958c86e8-cae0-452b-b6c3-78298b5d40fd,['bonus'],[2519079]
+46175007-fb41-43cd-b2c7-1f3077ba6ca9,['freelance'],[11563758]
+3d8723ee-f716-4c0d-99cb-a823efabf568,['freelance'],[9104585]
+d6eb545d-e7ee-4b1e-9cf2-7ff662c32e34,"['investment', 'salary', 'salary']","[2602921, 19032875, 23469585]"
+605e1fe2-6044-4a73-9aa2-4d284b04a1d0,"['salary', 'investment']","[21903394, 6690657]"
+31177356-659d-40e1-b0ab-00e88594b9f0,['investment'],[4033847]
+96429cae-e963-4eb8-b38f-f1e130449c73,['salary'],[12873380]
+6d71c02d-9ef0-4e8f-a599-2d97242860d0,"['freelance', 'freelance', 'salary']","[5171943, 3904951, 5505536]"
+50089777-3f8d-4776-97bb-8372700eafb6,"['salary', 'bonus', 'investment']","[6236371, 1471625, 4492317]"
+45f1f214-661b-4661-9714-aed0d41706ed,"['freelance', 'salary', 'bonus']","[3433195, 17469766, 1222915]"
+f8cbfbc1-c28d-49e8-ad45-4a93b97494a2,"['investment', 'investment', 'freelance']","[2171690, 3205992, 2608840]"
+b4f15ed5-f29b-4909-a50a-e59a6e883113,['bonus'],[1458600]
+f90fc7bc-e535-4151-a00a-0666d46230d8,"['investment', 'freelance', 'bonus']","[8422845, 10621742, 3554986]"
+21afb145-3fe7-46cf-afa5-64030f78f484,['salary'],[12151364]
+b1eb5a34-b228-4294-9cb5-7e4164cd10aa,"['freelance', 'freelance', 'salary']","[8318916, 3920860, 5472280]"
+96834211-4cc6-4140-9ead-36af49d5ecd5,"['bonus', 'investment', 'investment']","[4220235, 6276736, 2140534]"
+3d65c606-b05c-435b-83fb-3197e7fb2f26,"['bonus', 'salary']","[4675127, 21536827]"
+39efe4c2-85f7-4971-936c-7c49683303e0,['investment'],[527572]
+acd87db8-e6d7-42d9-b5d0-6a5f446c3003,"['investment', 'bonus', 'salary']","[3833877, 1870488, 11245470]"
+92545721-adc4-4785-a538-8272ddabce04,"['freelance', 'bonus', 'salary']","[7085725, 1883021, 22599876]"
+aa66f287-3d09-4c44-b140-846737c5c552,"['salary', 'salary', 'investment']","[16751480, 9250616, 7360751]"
+2dbe948e-8c3b-4955-85af-c0e17245baac,"['freelance', 'salary', 'investment']","[2693851, 9976125, 1420731]"
+bfe81215-0787-41ce-bc9d-01fd85bbc68f,"['salary', 'salary']","[8454030, 18696088]"
+5e6a7122-fbe1-40c7-afed-266f92918ae8,"['freelance', 'investment', 'investment']","[5994154, 5014447, 8700241]"
+c2118946-295b-4210-aa0a-173afbee8c91,['bonus'],[2979967]
+dd27dd35-e400-4fa5-8340-f5e8107f7975,"['freelance', 'freelance', 'investment']","[7332770, 7277288, 9081824]"
+6f74b267-5111-49df-93d1-c3f59045fc1b,"['bonus', 'salary']","[4616398, 24590407]"
+d20aca2f-4b25-48d7-b637-20becdd06cd8,"['investment', 'freelance']","[6544706, 5996260]"
+3540ed0a-4b52-4d9f-9d45-6d738bb1accb,"['bonus', 'freelance']","[1584225, 2380942]"
+1a93fc39-7c4d-463a-b784-5057afe37ebc,['investment'],[9379793]
+a65b636e-94b1-4c7a-97d5-e397e2020af6,"['investment', 'freelance']","[5790254, 4454756]"
+e7b97c34-8cfc-41a5-8f2d-cb505db9b3a0,"['salary', 'bonus']","[24913674, 2126180]"
+78c7aef3-9255-4554-b678-347ece365b79,['freelance'],[9903839]
+651440fd-7f47-4858-b07c-a95c8ecce3c6,['freelance'],[5951979]
+1bf2051b-0f5e-4b48-b9f9-9b2edfd8693c,"['salary', 'bonus']","[10807161, 1659191]"
+ec63014b-a498-4826-850e-794031b048be,['freelance'],[11083512]
+c10abc64-cfcd-4774-bd21-5e3adfd2e0fb,"['bonus', 'bonus', 'freelance']","[2122441, 4547351, 4179423]"
+2ed26d5d-710e-4944-811f-26b202c8c253,"['freelance', 'bonus']","[3391537, 4566364]"
+208354e5-528e-4daa-b595-f49eabfd7978,"['freelance', 'salary']","[7862925, 5300604]"
+f0ab374b-6b89-470e-aedb-89222d0a1243,"['bonus', 'salary', 'investment']","[1549496, 10485797, 4008670]"
+6437dd64-0368-4a98-af58-f60e1677a313,"['freelance', 'investment', 'investment']","[5216552, 8799067, 2075005]"
+3ea4eb5e-570b-49d2-b446-8538ea5417b8,"['salary', 'freelance', 'bonus']","[24040137, 6799283, 4044704]"
+6ac7ca00-5584-402f-948e-81afa4e39048,"['freelance', 'investment', 'salary']","[8619216, 3162787, 8757075]"
+fd2fe01f-29a8-4c82-a1d2-3448a4d6437c,"['freelance', 'investment']","[9364501, 2388902]"
+07f90b81-1187-4b71-b39a-b2feb5a235ef,"['bonus', 'bonus']","[2598475, 533425]"
+ca8b1b59-e0ef-431c-ae26-5485e08d432a,"['freelance', 'salary', 'bonus']","[4329501, 17382007, 1416439]"
+41460f7b-99c4-4a89-bf5f-e4207accb1df,['bonus'],[631742]
+3054ea0b-2f19-4903-9ab2-5cf353c45653,"['investment', 'freelance', 'freelance']","[1359751, 4316968, 11239984]"
+b851982a-ca83-47c9-94e3-adf63d6fc008,"['bonus', 'freelance']","[3376707, 2314166]"
+4a2f78ac-44c0-44df-b96d-f2dd51c29f11,"['investment', 'freelance']","[6726663, 3706907]"
+acf297c0-7587-46af-8b8a-9887f0702982,['salary'],[19802014]
+fbc7abc8-adc7-4b3d-9b72-bbbdde0b9f17,"['bonus', 'salary']","[1045220, 16633950]"
+df02bd1f-3ae5-4075-be6b-36e9b7ec4cb5,"['salary', 'bonus']","[9975437, 1590654]"
+44b2a49b-b4a6-433a-ad55-1b87d8d5cd61,['bonus'],[1857965]
+46efb6f5-fa2a-4f24-a441-3e9f166f457b,['freelance'],[9173466]
+471a4078-3979-4b6e-9b80-a082ae8b8a2c,"['bonus', 'salary', 'salary']","[4923441, 6208531, 13648765]"
+c845d1d7-df74-4ce4-9485-4ed2f8a1dec7,"['salary', 'freelance', 'investment']","[14046880, 2655841, 4559422]"
+341e6407-76f8-4de5-adbf-531472147ee2,['investment'],[579762]
+d6bf90fb-933c-4696-bd83-b167149ee709,['salary'],[6599428]
+0903b80a-34e8-451a-9a0d-fedc3e326b4b,"['investment', 'investment']","[6380370, 3881023]"
+1e565df1-1020-4841-9155-5d65bbfd04c4,"['freelance', 'freelance']","[8817108, 11590853]"
+e3dcfd96-b0f4-4587-85d0-1ed6ebc28fe4,"['bonus', 'freelance', 'salary']","[2845104, 11637796, 21553855]"
+f7e79a10-40df-4f50-b94f-149ba54c3d58,['salary'],[8287372]
+4997fcf8-9e16-4cc0-b58d-02845b6b5eb6,"['freelance', 'bonus']","[7459522, 4336807]"
+8284f8b3-7c6a-4b05-9379-3dcba346a855,"['freelance', 'freelance']","[5613365, 10446761]"
+1b4e5726-d32a-4795-9446-9ba2553cfa64,"['bonus', 'bonus', 'salary']","[4429048, 556902, 8557097]"
+1033dc7a-ca66-426b-a906-79a03c2ed112,"['bonus', 'freelance']","[4536358, 9341741]"
+90a8477f-dc28-4622-a603-87d85dfd8c68,['investment'],[3148213]
+0fff50f6-38dc-4bed-9b80-fc65e7795d2b,['bonus'],[471293]
+a81c1726-ebaf-4245-a490-c4dc7f9efbc0,['investment'],[2896926]
+c5682547-c291-4360-9e3e-20940bc746b0,"['bonus', 'investment']","[4509407, 5590131]"
+7a151f19-46ca-4e2f-9030-4d7e9eb6f13f,"['freelance', 'freelance', 'investment']","[7311937, 10097901, 2211749]"
+af897c9d-7f55-4f73-ac6e-f2d3ece7fa7a,"['freelance', 'bonus', 'bonus']","[4499210, 4332295, 4488184]"
+0c0468c6-3327-4f52-9e53-b8a633c16439,"['salary', 'investment', 'freelance']","[9527651, 5296985, 10018258]"
+c95d14c6-9add-4644-8674-dbccdc0b6863,"['salary', 'salary', 'salary']","[23948407, 9163301, 11451920]"
+6ebc5b66-38cd-4719-b442-6414a4c1a145,['investment'],[5996043]
+db7a946b-8d2e-4575-9e78-49c6d4a744d4,['bonus'],[560565]
+f5003457-171c-4472-943b-f409d4d51ac8,"['salary', 'bonus', 'salary']","[8483879, 1562800, 18300530]"
+8395b9c8-0672-462e-a12d-4ae062b9e619,"['bonus', 'bonus', 'bonus']","[858863, 1619892, 3480034]"
+3236dfe7-790c-408d-868e-4d36f3923a5e,"['investment', 'salary', 'salary']","[4253097, 12979172, 11435807]"
+fcc58719-edd3-4ed6-a680-e8018b8a2c03,"['freelance', 'investment']","[11302441, 4002752]"
+64aa7167-3368-47a1-9d2c-709e510eee6c,"['investment', 'salary', 'bonus']","[4589185, 6953952, 1279700]"
+496b3af8-527e-4403-95b0-919fafc3cff9,['bonus'],[2935314]
+de867cf5-0e27-4932-8cc8-28a01bcd652b,"['salary', 'salary', 'freelance']","[14539382, 8645724, 8196205]"
+e34fcfd5-6b6b-4f66-8d0b-67653b68fffe,"['investment', 'freelance']","[8438373, 4674939]"
+598e1211-fe95-4cf4-9f8b-ef909928f13c,"['salary', 'bonus']","[19345010, 3649353]"
+2fee44d5-8f9f-427f-8403-14ccb8f56033,"['bonus', 'bonus']","[1598243, 4229840]"
+429d0448-193a-4e72-8ae1-17099cdbe3b3,['investment'],[9821359]
+dcd507d9-f446-4d85-b37c-438583d835ea,['bonus'],[4891564]
+3f6e6e79-37ad-49e5-9402-76a6f7e49908,"['investment', 'freelance']","[2611864, 5272078]"
+e3038ca2-b14d-4d98-bbf2-3bcdc8d8e9f4,['freelance'],[6200261]
+6a54fbb1-907a-415a-bb89-0a23504379b8,"['bonus', 'bonus']","[472417, 3315442]"
+66037517-fd54-4945-8b75-b55e606c6ea0,"['investment', 'freelance']","[4757842, 8217646]"
+4382e72a-41b7-4d13-8b85-683b80787cf7,"['investment', 'salary', 'salary']","[8094093, 19819657, 7300387]"
+c10507d4-d9d8-4dce-a994-c67f3417fee6,"['freelance', 'bonus', 'freelance']","[3539841, 1233006, 7890957]"
+d3901e9d-7131-4d76-871e-2f1d61307e0e,"['freelance', 'investment', 'freelance']","[3565363, 9223070, 8679353]"
+9063f8d3-c344-4314-bc58-d514dcd9d209,"['bonus', 'bonus']","[406129, 2006083]"
+fde150c8-7cad-4246-99eb-92d626a99e59,['investment'],[7172403]
+d4ecb9d2-4a22-4d5c-95a1-bc2ddf37460b,['bonus'],[548513]
+8534df6c-ba81-4cf5-8b2b-6ade5b5be181,"['freelance', 'freelance']","[3376058, 11949562]"
+3d13d933-291a-4b49-a14e-d43604f140be,"['bonus', 'freelance', 'salary']","[3329845, 2647492, 21354845]"
+6b5706c8-2f14-4fd5-b930-f6e5ebee2f12,"['salary', 'freelance', 'freelance']","[8199080, 3081319, 2829183]"
+1d888588-55c1-4ec4-9ce5-ca9874da8959,"['freelance', 'salary', 'salary']","[8509697, 14055616, 14256204]"
+54718466-4ae2-45fc-bbd9-36317466d92c,"['bonus', 'freelance', 'bonus']","[400034, 7184438, 4408097]"
+b25710a6-a7bd-4d40-a39f-ffadb92df1bc,['freelance'],[7154220]
+cd91898f-11ab-4e84-af62-b8993876b4d2,"['salary', 'salary', 'bonus']","[10933366, 18244598, 4263595]"
+e5f6998e-7cb8-4cd5-bf2f-89c321306e73,"['bonus', 'freelance', 'salary']","[825952, 8090235, 12590509]"
+8c7ec27d-ec69-4827-8030-284eea16c1e8,"['investment', 'freelance']","[8724843, 5124587]"
+83670750-aa33-4e1b-a7a5-4e6a2f907edc,['bonus'],[626859]
+8ce602e7-77c6-4773-9568-ae0e17af2da3,"['investment', 'freelance', 'investment']","[6955944, 6508875, 8462195]"
+59b1f3e7-db10-4b13-913b-2e522d048646,"['bonus', 'bonus']","[865610, 361006]"
+04aa2a49-89c6-41dc-9fa8-5ca535c6c5e2,"['bonus', 'freelance']","[3023107, 3307199]"
+edf7d67f-eb50-4b95-8882-034f52eb865f,"['freelance', 'freelance', 'freelance']","[8966570, 9509147, 3118443]"
+9b4d9a3d-ff06-4194-a576-102a405f5eda,['salary'],[5884300]
+6190b234-475a-46c3-8314-cdbe29b2e94b,"['freelance', 'freelance', 'bonus']","[9535247, 5388907, 483768]"
+83ac2f36-8ce4-4667-80dd-c8b276544aaf,"['freelance', 'bonus']","[9547050, 1835301]"
+098d3109-0522-40cc-9e34-b3e298b3b1db,"['bonus', 'bonus']","[4556320, 2755016]"
+bfd78565-1a37-41fd-9dbd-f31b98b2a251,"['investment', 'freelance']","[2440543, 9672527]"
+b8ca3993-752a-4e26-822d-edd91602a636,"['freelance', 'salary', 'salary']","[2658418, 10260732, 8671487]"
+0eac959c-57df-4c65-b02c-1fdadefe4e79,['bonus'],[3072460]
+3245e9fa-c1ab-4d57-aa7b-1be7a7e01af0,['salary'],[9628577]
+924697f9-4d77-4ab6-984f-7cdb34171700,"['bonus', 'freelance']","[1385245, 8116212]"
+0eff96a4-d296-4fc2-9fde-1f9dd9dbbe2d,['salary'],[10059324]
+cdbb3a5b-b1bb-4f78-aeb0-e9fcfbf83a11,"['investment', 'bonus', 'freelance']","[2037127, 4118668, 3722628]"
+d8eb2b1a-f690-4ffe-a733-753da1bd2011,['salary'],[17182027]
+04a52242-4528-4573-bf05-e2543465c97f,"['freelance', 'freelance', 'salary']","[2467080, 3073101, 10572641]"
+389b0298-5dad-4eff-948b-76d415b2bd09,"['freelance', 'investment', 'freelance']","[11625585, 5545128, 2872720]"
+4436fafe-0cb8-4639-8126-cb72e6ae9bca,['bonus'],[3926323]
+d551d491-c287-4408-9cee-e67c1b3a6998,"['investment', 'salary']","[2183508, 9472094]"
+3cbb6f06-1170-44ac-b451-a6eda9c1a1dd,"['salary', 'investment']","[9814114, 7247514]"
+0c049f42-d428-49b7-81c0-87600542e0e5,"['investment', 'bonus']","[8573028, 4336440]"
+33d67323-08db-46e5-a96c-8fbed3dd6001,['bonus'],[1382392]
+25ce2390-f66a-49c5-9fb3-26c75124b289,"['salary', 'bonus']","[7406411, 3168052]"
+af97a4ae-0829-407c-ad41-0a76e7bce0fd,"['investment', 'salary']","[8495885, 15201728]"
+cf6ba88d-e03c-437e-b4ad-2e7a19b80e09,['freelance'],[11322339]
+871dd1c2-42c0-474d-9515-ef4819a95c6b,"['freelance', 'bonus']","[2771437, 4763612]"
+b1449fa4-0a8b-4ca5-82de-1488c0c6bb14,"['freelance', 'investment', 'freelance']","[3603562, 2530464, 3033079]"
+2d7a5ccb-a2fb-41dc-9fe6-29d475c1f63f,"['investment', 'salary', 'salary']","[7942720, 17492750, 8368029]"
+49497273-970c-48cb-9ff8-96ceafa5a598,"['bonus', 'bonus']","[490259, 1247830]"
+4e1b274e-161d-4ae4-ae6f-09aa24d23167,"['investment', 'salary', 'freelance']","[8751938, 5448690, 9744795]"
+5738cf07-4178-4c21-b3fd-83f628450b6b,"['bonus', 'freelance']","[265452, 2447845]"
+693c807b-de28-4799-a0c6-febdac37191c,"['freelance', 'bonus', 'investment']","[11964277, 4949476, 906965]"
+08f18deb-4b2d-4251-a1e1-60efc2d7f5a7,"['salary', 'investment', 'investment']","[14593119, 2732085, 3129933]"
