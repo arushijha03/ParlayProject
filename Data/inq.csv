@@ -1,0 +1,613 @@
+id,status,type,loan_amount,is_buying_business,is_primarily_selling_or_providing_services,is_operating_for_profit,is_primarily_lending_business,is_pyramid_sale_distribution_plan,is_deriving_gambling_revenue,is_engaged_in_illegal_activity,is_private_club_with_limited_membership,is_government_owned_entity,is_loan_packager,is_associate_with_criminal_history,is_equity_owned_by_lender_or_cdc,is_presenting_prurient_performances,is_defaulted_on_federal_loan,is_engaged_in_political_or_lobbying_activities,is_speculative_in_nature,is_primarily_earning_from_rent_interest_or_investments,is_for_profit_subsidiary_of_nonprofit,is_pawn_shop,is_owned_or_controlled_by_native_american_tribe
+db7a946b-8d2e-4575-9e78-49c6d4a744d4,awaiting help,['export'],71766400,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+f5003457-171c-4472-943b-f409d4d51ac8,ineligible,['workingCapital'],8323342,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8395b9c8-0672-462e-a12d-4ae062b9e619,awaiting help,['workingCapital'],88975659,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+3236dfe7-790c-408d-868e-4d36f3923a5e,forwarded,['acquisition'],72706313,1,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+fcc58719-edd3-4ed6-a680-e8018b8a2c03,archived,['commercialRealEstate'],56285347,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+64aa7167-3368-47a1-9d2c-709e510eee6c,archived,['acquisition'],55718351,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+496b3af8-527e-4403-95b0-919fafc3cff9,ineligible,['equipmentPurchase'],1672482,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+de867cf5-0e27-4932-8cc8-28a01bcd652b,awaiting help,['commercialRealEstate'],54616924,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+e34fcfd5-6b6b-4f66-8d0b-67653b68fffe,awaiting info,['workingCapital'],62065372,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+598e1211-fe95-4cf4-9f8b-ef909928f13c,ineligible,"['acquisition', 'workingCapital', 'supplies', 'commercialRealEstate']",74874172,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2fee44d5-8f9f-427f-8403-14ccb8f56033,withdrawn,['commercialRealEstate'],38439044,0,1,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,1,0,0
+429d0448-193a-4e72-8ae1-17099cdbe3b3,awaiting info,['acquisition'],77894819,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+dcd507d9-f446-4d85-b37c-438583d835ea,withdrawn,['acquisition'],54795179,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3f6e6e79-37ad-49e5-9402-76a6f7e49908,awaiting info,['workingCapital'],22541754,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+e3038ca2-b14d-4d98-bbf2-3bcdc8d8e9f4,ineligible,"['acquisition', 'workingCapital', 'commercialRealEstate', 'equipmentPurchase']",49086737,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+6a54fbb1-907a-415a-bb89-0a23504379b8,ineligible,['equipmentPurchase'],81218961,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+66037517-fd54-4945-8b75-b55e606c6ea0,awaiting help,['commercialRealEstate'],77531311,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4382e72a-41b7-4d13-8b85-683b80787cf7,archived,['CAPLines'],54753759,0,1,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0
+c10507d4-d9d8-4dce-a994-c67f3417fee6,awaiting info,['equipmentPurchase'],90686222,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+d3901e9d-7131-4d76-871e-2f1d61307e0e,archived,['workingCapital'],35537397,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9063f8d3-c344-4314-bc58-d514dcd9d209,awaiting info,"['acquisition', 'equipmentPurchase', 'workingCapital']",36149018,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+fde150c8-7cad-4246-99eb-92d626a99e59,ineligible,"['equipmentPurchase', 'workingCapital']",80315311,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+d4ecb9d2-4a22-4d5c-95a1-bc2ddf37460b,ineligible,['commercialRealEstate'],90156077,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8534df6c-ba81-4cf5-8b2b-6ade5b5be181,archived,['equipmentPurchase'],60445048,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+3d13d933-291a-4b49-a14e-d43604f140be,awaiting help,['acquisition'],13118744,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+6b5706c8-2f14-4fd5-b930-f6e5ebee2f12,awaiting info,['equipmentPurchase'],25848329,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1d888588-55c1-4ec4-9ce5-ca9874da8959,archived,['acquisition'],88842488,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+54718466-4ae2-45fc-bbd9-36317466d92c,awaiting info,['acquisition'],59071878,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+b25710a6-a7bd-4d40-a39f-ffadb92df1bc,awaiting help,"['acquisition', 'export', 'equipmentPurchase', 'other']",39519545,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+cd91898f-11ab-4e84-af62-b8993876b4d2,withdrawn,['acquisition'],95324388,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+e5f6998e-7cb8-4cd5-bf2f-89c321306e73,awaiting help,"['equipmentPurchase', 'workingCapital']",87978676,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8c7ec27d-ec69-4827-8030-284eea16c1e8,forwarded,['acquisition'],24452698,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+83670750-aa33-4e1b-a7a5-4e6a2f907edc,archived,"['export', 'equipmentPurchase']",70754392,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8ce602e7-77c6-4773-9568-ae0e17af2da3,awaiting help,['equipmentPurchase'],33989603,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+59b1f3e7-db10-4b13-913b-2e522d048646,forwarded,['other'],76890903,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+04aa2a49-89c6-41dc-9fa8-5ca535c6c5e2,archived,['supplies'],8176803,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+edf7d67f-eb50-4b95-8882-034f52eb865f,archived,['supplies'],15825924,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9b4d9a3d-ff06-4194-a576-102a405f5eda,withdrawn,['acquisition'],31215764,0,1,1,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0
+6190b234-475a-46c3-8314-cdbe29b2e94b,awaiting help,"['acquisition', 'equipmentPurchase']",59361265,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+83ac2f36-8ce4-4667-80dd-c8b276544aaf,archived,['equipmentPurchase'],43649973,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+098d3109-0522-40cc-9e34-b3e298b3b1db,awaiting info,['acquisition'],33026378,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+bfd78565-1a37-41fd-9dbd-f31b98b2a251,ineligible,['supplies'],25269349,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+b8ca3993-752a-4e26-822d-edd91602a636,forwarded,['equipmentPurchase'],44340262,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0eac959c-57df-4c65-b02c-1fdadefe4e79,ineligible,['acquisition'],70160029,1,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3245e9fa-c1ab-4d57-aa7b-1be7a7e01af0,awaiting help,['workingCapital'],6219905,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+924697f9-4d77-4ab6-984f-7cdb34171700,ineligible,['workingCapital'],16814109,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+0eff96a4-d296-4fc2-9fde-1f9dd9dbbe2d,awaiting info,['commercialRealEstate'],65527341,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+cdbb3a5b-b1bb-4f78-aeb0-e9fcfbf83a11,forwarded,['acquisition'],67885753,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0
+885016e6-da8d-45d1-a2ac-750b3ea4195c,in-progress,['supplies'],16817183,0,1,0,1,0,0,0,0,0,0,1,1,0,0,0,0,0,0,0,0
+8eef7d77-c284-4b09-843a-047dd7e18f40,submitted,['equipmentPurchase'],56881763,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3e352196-a827-46ad-9d03-9e84b177fa3a,in-progress,"['commercialRealEstate', 'CAPLines']",32096928,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7af7fac9-4391-4d7f-8809-1e9d56a1b6af,submitted,['workingCapital'],17862704,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+78e22302-3bed-4831-8643-e2f0afc25b21,in-progress,"['acquisition', 'generalExpansion', 'supplies']",98148449,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+ec77942f-4ea8-4ebe-85bb-a4c1190be238,submitted,['equipmentPurchase'],21563112,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3d91bc7b-1ac4-41bc-8ca3-fd5317d32e16,in-progress,['acquisition'],42904914,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+7deced06-58ba-49b8-a25f-d8dfc2c0241c,archived,"['workingCapital', 'acquisition', 'equipmentPurchase']",10301211,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+344e33ea-e1b6-49b9-9892-e4aad89306d0,in-progress,['commercialRealEstate'],64253779,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9d2ccc95-1d40-4018-935c-37f64bf66645,in-progress,"['workingCapital', 'acquisition']",79609582,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1e8fe0bc-f71c-4ac9-84e2-8845c7abd78a,submitted,['workingCapital'],72089099,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+7def4293-20de-4387-8446-516456e1b903,submitted,"['export', 'CAPLines', 'acquisition']",26203808,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+44ca477f-cf6b-4aa2-93f6-e49af47a8085,in-progress,['acquisition'],46361681,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+12016298-0bc9-4d63-aa1f-911241b68ec5,in-progress,['acquisition'],29842093,1,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+9e705663-433f-4867-b99c-485106c8b539,submitted,"['equipmentPurchase', 'acquisition', 'commercialRealEstate']",33896970,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+98b103aa-a1e9-4511-9fd2-ebfa996b61b2,in-progress,['commercialRealEstate'],13398724,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+90132c61-fc23-42ff-aeb1-0975630a777c,submitted,['acquisition'],81291639,1,1,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+d43970bc-10a2-4a43-92d1-9cd3cfef9738,in-progress,['workingCapital'],48840828,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+4a0b45d8-c150-4f9d-bda8-58a4617b08ee,submitted,['acquisition'],44994538,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+e83921a5-2613-4177-9f47-c16451fec808,in-progress,"['commercialRealEstate', 'acquisition', 'equipmentPurchase']",64145341,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4a9ae545-a31c-4cc8-a08a-19d529700d27,archived,"['generalExpansion', 'acquisition']",60925311,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+f7da6940-0dfb-4c29-8b0c-9cc56e1265e3,submitted,['acquisition'],71063120,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+02155bb7-f18f-4dd8-abd1-a1f448f0cd2d,in-progress,['CAPLines'],99425451,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+d698d32e-ca0e-4e6a-83a3-532cdbb7dc55,submitted,['export'],26062992,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0
+b8b21d1b-0a1a-43ad-b60f-2450581000ba,submitted,['equipmentPurchase'],54071494,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+04acf4cc-d09c-47cf-94ab-66c89c1a5979,in-progress,['acquisition'],16781395,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+fae13bc5-e3af-4f9d-92b6-7259d117c8e6,submitted,['supplies'],42712355,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+0c37d937-9d9b-4931-925b-2faa7bb96bf9,submitted,['workingCapital'],10092795,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+c80b7de3-9cd6-4a92-a8d8-731998e8c803,in-progress,['acquisition'],13667860,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+e969985f-bcbe-4ae8-b2fd-84a15bdb9751,submitted,['acquisition'],95741975,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+33fd4dda-c325-463d-ac82-23d4e79e55fb,submitted,['workingCapital'],53449093,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+b5ee96e0-0401-4815-b449-6dd9dced2d81,in-progress,['CAPLines'],95521767,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7b0f1e54-905e-4330-83ec-5e8f5a48592a,in-progress,['acquisition'],79062587,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+fd3aa6d3-feaf-46d4-9e02-733c8aaa119c,in-progress,['commercialRealEstate'],69146647,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+39ea5b1b-9963-407e-8e16-9f0b35b1de79,submitted,"['export', 'other', 'equipmentPurchase']",1759178,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ec06f4d9-e254-4a05-8b36-626309bda3fe,submitted,['acquisition'],42285033,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+26047016-561e-4374-8360-a66a53d1f828,in-progress,['commercialRealEstate'],23553386,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+072c3d7c-9d9b-42db-95d3-bdf91a973d4f,archived,['acquisition'],89961004,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+e7afdd0a-484c-4d08-9f8f-9588fb4d2407,submitted,['acquisition'],86735872,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+eb09977e-86ff-4dc9-b247-ab54b9d01a27,in-progress,['CAPLines'],64925498,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+df0d3d2f-dd60-482f-b305-e0b632b7a334,submitted,['acquisition'],73579530,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0cbfa9b3-c5f8-4055-b195-07b11afdf8ee,in-progress,"['workingCapital', 'acquisition']",91858760,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+5c76779e-04a3-4dde-a549-43cddd78d3d6,submitted,['acquisition'],39479142,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+e8644895-1870-477c-b12e-32245bd8b7d6,in-progress,['supplies'],43232273,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+ded8c7ae-42ab-49d8-8e47-435cce3aa0c1,submitted,['acquisition'],88317674,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+5e39f10a-04c9-455c-b584-1fd5b987bcfb,in-progress,['acquisition'],80815282,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3d4e56e0-a09a-4d7e-ab03-fc128086e5e7,submitted,['commercialRealEstate'],95314516,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+e5bf26b0-81f5-4f08-8174-dce4a1d388ae,archived,['CAPLines'],78943257,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+194d08dc-4a5e-4421-871f-ab135370950a,archived,['acquisition'],10381171,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+266b5842-37d2-4780-8148-7672608b0567,in-progress,['acquisition'],16153864,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+72269462-50e6-4508-9c77-73ef934b30c4,submitted,"['acquisition', 'workingCapital']",54146632,1,0,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+6a532fdb-bdd6-47bb-a880-df2a568b9c5f,in-progress,['workingCapital'],72434818,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+3d304dda-275b-4f0e-b7b7-8ac79257072e,in-progress,"['acquisition', 'generalExpansion']",55233401,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3449624b-5827-4ef3-8eb2-b41e0c94ee30,submitted,['acquisition'],13700524,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+a155e594-b8ee-4a6c-87aa-d14c4bb07bc9,in-progress,['equipmentPurchase'],33194956,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+55f445de-23b7-4119-aefd-f1b96121a0b6,submitted,['acquisition'],13120996,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+abbdbcef-14d3-4a0a-a54d-ce312e8e41b6,archived,"['generalExpansion', 'acquisition', 'supplies']",53791758,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+7603ca0c-fa1d-4dc0-a635-586ce505dfb0,in-progress,['CAPLines'],95189613,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3b686117-5f64-4b77-800f-f8659c09da61,in-progress,"['workingCapital', 'acquisition']",50000000,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0cbfd584-d58a-4aa3-8402-79676e9c1ebc,in-progress,['acquisition'],17153441,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0c419101-35c1-4069-af87-42fb569653f6,submitted,"['acquisition', 'workingCapital', 'commercialRealEstate']",63559491,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+a0d80c88-d19c-4b9a-956d-86fbcf44468e,in-progress,['commercialRealEstate'],74520746,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+cf0dffa2-6c77-45fe-be78-98215f52a088,submitted,['acquisition'],14770587,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+84ca71b5-1579-41ff-a4a9-2ff65905881a,in-progress,['workingCapital'],89183475,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+df12f141-245c-4c5a-89af-f585643b604b,in-progress,"['CAPLines', 'equipmentPurchase']",46498356,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+a811e367-0367-4861-8878-beb590ea2e03,in-progress,"['equipmentPurchase', 'acquisition', 'export']",42366400,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+d053d67c-6d6a-4cee-9bb6-f3bf4c0f7022,submitted,['acquisition'],94294703,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11231aa8-0662-4432-81c2-3bbbf2ac0a11,submitted,['generalExpansion'],57778538,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+b2b197f2-729b-4c99-aa48-417d8f8879dc,in-progress,"['workingCapital', 'acquisition']",14386544,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+a0e478f5-8bbb-4fdd-8d62-b669cf68daf5,submitted,['acquisition'],74987659,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1b6726c5-d1ff-4bf4-8593-210429f516d3,submitted,['workingCapital'],84103272,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2173d049-a79c-4557-b3d7-47369803c59e,submitted,['workingCapital'],82275146,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10be4e72-7cda-49f8-931a-a3be6e86973b,in-progress,['acquisition'],86356022,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+b1eba5dc-a09f-41ba-aba6-093447e9fb53,submitted,"['acquisition', 'commercialRealEstate']",43783750,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+db64c1ee-7c3b-4712-aa89-26770c51a883,in-progress,"['acquisition', 'CAPLines', 'equipmentPurchase', 'workingCapital']",1157029,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8921f9a8-88e2-4c5e-b7ac-893141ce2162,in-progress,['acquisition'],70245010,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+b72960e3-13cc-412e-9572-c555f6c6a1f7,in-progress,"['acquisition', 'commercialRealEstate']",50286132,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+b20b4d6e-84a5-4b51-8439-1173712d781e,submitted,['acquisition'],20638025,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+f82c6769-b48b-49d7-b56f-881c8040952d,in-progress,['equipmentPurchase'],99044369,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1f2125ea-19fe-40c2-85b4-dee6cce8f292,submitted,['commercialRealEstate'],27856208,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+e8b843b8-a4cf-432a-89ab-a2c2b34e8dd9,in-progress,"['workingCapital', 'acquisition', 'commercialRealEstate']",56876991,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+ce761d9a-d2ee-431c-87b1-0aa2b7ceac23,in-progress,['equipmentPurchase'],57684961,0,1,1,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+debbd224-fdd6-41b9-8529-bd26e16dcfa7,in-progress,"['commercialRealEstate', 'acquisition', 'equipmentPurchase', 'workingCapital']",71472010,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+badeed76-821b-4447-bc99-cee481892b8e,in-progress,['acquisition'],71061683,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+b66347fd-5e8e-48b5-be61-dd5bd1e48613,archived,['commercialRealEstate'],37110753,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+e0d13b47-eab8-4236-b8cc-85cde5c3370a,submitted,['acquisition'],8968751,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3fc69557-6074-4371-979b-8fe9fbdfd4d5,submitted,['workingCapital'],75667813,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0eb379be-619b-4d65-9906-45d1b58e1a94,in-progress,['commercialRealEstate'],69866665,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+a9dddf99-fa5c-4cc8-a9c5-de400fed6b1d,in-progress,"['other', 'equipmentPurchase']",28651940,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+e1833c14-7009-4481-be0a-6c24f2c93563,in-progress,"['acquisition', 'workingCapital']",81078137,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9e6b752a-329a-4624-bd1f-934114c625c9,submitted,"['acquisition', 'workingCapital']",19246117,1,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+604821b9-95bb-4954-8115-e09f003fb51d,submitted,"['export', 'other']",73410848,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9ee42fe9-30ed-4100-bd55-a9875db7bd12,submitted,['workingCapital'],86481607,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+0fde6ec9-2aba-4d0a-87c2-fc47a6544a0d,in-progress,['equipmentPurchase'],82235400,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+a5869b69-52a7-49e1-8a2d-010909a3c058,in-progress,['acquisition'],52965348,1,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+0165411a-6390-4445-9db5-6481e7e61a19,in-progress,"['export', 'other']",52578961,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ee98f753-c4ba-481d-8d1c-1c6d709026a9,in-progress,['equipmentPurchase'],1161894,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8b616f5a-92b6-4410-9142-8149cdd6005d,submitted,"['workingCapital', 'acquisition', 'equipmentPurchase']",64525844,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+966419fb-6cc9-4e7b-93b2-a4230c873100,submitted,['commercialRealEstate'],61625959,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0
+8e3106b5-573e-4a91-9127-519be22d1826,submitted,['acquisition'],38533243,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+dd82e484-c852-4315-bc1c-ce4d16a6db15,in-progress,['workingCapital'],66807269,0,1,1,0,0,0,0,1,0,0,1,0,0,1,0,0,0,0,0,0
+d80f9f51-e008-4005-b454-936e8ca76ea3,in-progress,['other'],12704026,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+d044a5f3-a0c4-4ef9-8187-d77b1e36d035,archived,['acquisition'],25688741,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+0985ab0c-9766-40dd-8aff-4467bf9425aa,in-progress,['workingCapital'],48645825,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0adffd08-eefa-4ac9-8750-1e7f6583339a,submitted,['supplies'],24323532,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0
+047d7464-01c1-4bbe-bac3-1c2cd8bb78ba,in-progress,['commercialRealEstate'],5333685,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ae069600-d62a-47c3-bb38-eb6a4390ef5a,in-progress,"['export', 'equipmentPurchase']",39056465,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+f1986ff8-ed83-4ec7-81aa-75ced47489a9,archived,['workingCapital'],60892362,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+834341d5-7f18-40f3-8556-6c8506b95cb6,submitted,['acquisition'],35471316,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+5ef81bff-3aa6-44ea-be8b-62a14b6a378d,submitted,['workingCapital'],80982740,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+39d3c73d-1948-4ae2-8e16-38ff3afca50c,in-progress,['equipmentPurchase'],42081644,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4df5d8f6-4548-481d-bd93-205e8f401cfe,submitted,['equipmentPurchase'],92625385,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+ab1e0028-7d9a-4544-af07-f0f13f2845b1,submitted,"['acquisition', 'workingCapital']",71135122,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+43ab2919-72e9-4df8-a7e9-eafae3e3b10f,submitted,['acquisition'],9725962,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+d7ed31ff-181f-4437-9671-2ae64ed480b9,in-progress,['equipmentPurchase'],38073491,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+375c3cb3-a101-4bab-8ae9-80048f971d85,submitted,['commercialRealEstate'],85511441,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+a888fca0-7881-43c7-b203-2cf719738587,in-progress,['acquisition'],88308877,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+f76f434c-7b9e-4c58-9842-42be07aee340,submitted,['commercialRealEstate'],78626640,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ec83413d-5c88-4e3f-bf04-b48cd65c2023,in-progress,"['acquisition', 'workingCapital']",80714971,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+926880bf-6e89-4071-adec-5e64187ed9e6,submitted,['acquisition'],33651984,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+34d2f068-6680-45a1-acc5-ecd510f5bfc9,in-progress,['workingCapital'],43896205,0,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+049ee5b2-0325-40c5-b99b-c49be25953f8,in-progress,['acquisition'],64222241,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+68a74736-b756-4ecb-820a-07381cdb8128,submitted,['supplies'],31520319,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0da89158-bc89-4bff-89ff-d96bee84e280,archived,['workingCapital'],91670940,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+2d517dc0-31b0-4a86-a8fc-6448d8d476a8,in-progress,['equipmentPurchase'],43607913,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+b400b22c-8c2b-4bca-86ea-96460ff35f78,in-progress,['workingCapital'],39783506,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+183141e2-e3d9-4ace-a877-1b677e5d88fa,submitted,"['workingCapital', 'equipmentPurchase']",75237554,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+3333730e-2fa1-43a5-b95f-c32f7880338f,in-progress,['workingCapital'],73259970,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+9217ac6b-0990-4d3a-bf65-32d9a61c8f80,submitted,['acquisition'],87717521,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+5fd6c877-f80b-49d4-8dcb-4c6b7d2668bd,submitted,"['workingCapital', 'acquisition', 'export']",2150548,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+72c8931d-6ac9-4e8a-9d3f-758aa5d44525,submitted,['workingCapital'],50968206,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+51a94ed1-9581-4731-a4e8-0e2daf6c996f,submitted,"['acquisition', 'workingCapital', 'generalExpansion']",82629979,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+71ddd5e9-ac79-4c0e-a1e4-1a24f5bf186b,in-progress,['equipmentPurchase'],91588143,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+18794cd2-4412-47ed-b1a0-b5323540c170,in-progress,['equipmentPurchase'],45221420,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+efd59591-2cc0-44f1-bb17-d2ebcd382291,submitted,['acquisition'],1635978,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+100a2f37-9716-4647-a7f2-a553b6dfb64a,in-progress,['workingCapital'],29857036,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+10598759-e052-4978-a972-78f21f82acf1,submitted,['equipmentPurchase'],7370687,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+b1dcf2be-c568-49a0-a893-1f2fec27c30e,submitted,['supplies'],24816620,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+98ccf484-58d1-4b33-b18d-72fc09998fd0,in-progress,['equipmentPurchase'],69786984,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+54cb31d0-d8e7-4f6d-915a-761266307474,archived,['acquisition'],80664248,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+590cd986-9c72-4f56-8f87-4d7f709bac94,submitted,['acquisition'],21060024,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+159885c3-16a2-4d20-94f7-57c533830a8a,in-progress,['workingCapital'],70780873,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8f1c0be9-7417-44e3-9024-104a35f580ff,submitted,"['equipmentPurchase', 'commercialRealEstate']",94684683,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+81a554eb-d13a-4411-8f22-d7995629b70a,in-progress,['workingCapital'],48450068,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8c5e6cba-ef22-446a-8995-e535ec9025ea,in-progress,['export'],58754550,0,0,0,0,0,0,0,0,0,1,0,0,0,1,0,0,0,0,0,0
+852d7932-e682-4ab9-9843-ac681b338e09,submitted,['equipmentPurchase'],56298803,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+bba33d6b-e2b9-49b9-b913-949e8b8b3f84,in-progress,['other'],63821166,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2f51cb15-02f9-44ec-a021-2ec4c3e26ced,submitted,['commercialRealEstate'],68167649,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+763f3ba1-e132-4b91-99e9-8816327aafd7,in-progress,['acquisition'],34033482,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+a9ed2019-b569-4e7c-89eb-1fcc8f0f8dea,submitted,['acquisition'],54369726,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+b8af5e67-481c-4338-a788-128a757a7c08,submitted,['acquisition'],19244202,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+712e046c-e7f9-499f-b7cc-96c0dff747c1,submitted,['export'],12456087,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+d886e2ae-9e18-4afd-ad12-4185ef8d3e6f,submitted,['equipmentPurchase'],4337194,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+5a15e376-b26f-4835-9c7a-cd7820ed7729,submitted,['acquisition'],24978251,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+ba18272b-25a5-4fe8-91fa-449bd6edb134,in-progress,"['acquisition', 'CAPLines', 'workingCapital']",64159136,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0b2a49a9-7235-4f47-845c-e116592ad2ee,submitted,['supplies'],7462867,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3e298277-2569-41f3-957a-617dceb21780,in-progress,"['workingCapital', 'acquisition', 'other']",40578298,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+d020f6ff-5927-4a48-a68d-97ea568f6914,in-progress,['commercialRealEstate'],88104561,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+23745c63-2bd8-48e7-b9ac-13ab3fb56c15,in-progress,['export'],93617107,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+d2cc218d-f2c1-40d5-ae51-3a66696fad3f,submitted,"['acquisition', 'supplies']",45899747,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+fba2a3ed-19fd-4650-ac22-8b1caf8ce308,submitted,['acquisition'],87127239,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+bead3644-21f7-4b71-b48a-7c4de1c710c8,in-progress,['generalExpansion'],99482229,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+019e8ccf-1214-4da4-8059-b7927029a885,submitted,['export'],49098754,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ea33b338-07ef-463f-ad21-01b002686d62,submitted,"['workingCapital', 'supplies', 'equipmentPurchase']",23386000,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2097ca90-8de7-48e8-81da-bbb48933b6eb,in-progress,['acquisition'],36078980,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+947715a5-2350-4e65-aec7-d115d5a21f7e,in-progress,['acquisition'],2506982,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+75d82883-1723-463e-aa1d-3d0e39a083a4,in-progress,"['workingCapital', 'acquisition']",60276887,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+f880e8b6-fc77-47d9-9886-110567d97d46,in-progress,['workingCapital'],28661861,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+cc2fda20-98e9-404a-9d87-cc0c2ee382af,archived,['workingCapital'],17591902,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+acea5e06-3104-4790-b0a5-6705d16c777d,archived,"['workingCapital', 'acquisition']",83708195,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+d519b784-9102-425d-b4e8-e9628fd44ee5,in-progress,['equipmentPurchase'],96784938,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3607dd0d-1f7d-4be9-9440-e481e9874f3f,submitted,['acquisition'],82337418,1,0,1,0,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0
+2b93677f-cda3-475e-8154-9a93335f1cd9,submitted,"['acquisition', 'supplies']",59657136,1,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+795fbd72-e10a-414c-bd38-6f650e50014e,submitted,['acquisition'],14581192,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8ec8531c-a3ee-4cc1-a190-0b0a2fc2f5f2,submitted,['equipmentPurchase'],44025841,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+b560de92-187d-4a78-ab59-b24fd8f45157,submitted,['commercialRealEstate'],46063601,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+82863f46-38a0-426c-816e-107ddd251796,in-progress,['acquisition'],28755102,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4f5163ae-d4d8-4e7e-bc98-844d628a5820,in-progress,['workingCapital'],9849548,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+33f9e0d2-42ee-48af-9285-19dab235d380,submitted,['acquisition'],99873764,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+3e329f52-f638-436f-8886-47efff1778a0,in-progress,['workingCapital'],1932340,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+35095809-9aeb-49fa-a14b-8cf1e83f1eb9,in-progress,['acquisition'],68128844,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+d32bdb19-dff6-4ce9-8fff-8db0f85d6698,in-progress,"['acquisition', 'workingCapital']",82113849,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ee9aafca-d590-4fbf-ac0b-8da57fb153de,submitted,['acquisition'],68050002,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+1579ed1c-0246-47d8-80ed-dd411cca8524,in-progress,['workingCapital'],56276956,0,1,0,0,0,0,0,0,0,0,1,1,0,1,0,0,0,0,0,0
+bbec10d7-dc3b-494f-8771-07585f7a6a2a,submitted,['commercialRealEstate'],63277748,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+90ea6966-8610-4e45-9cde-fda3487bd9c0,submitted,['equipmentPurchase'],69281521,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+f785caa9-9b20-4ec4-9ce6-a00aebc8a7b7,in-progress,"['equipmentPurchase', 'acquisition']",49719996,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+a3353714-bb11-4101-a45b-68894c09e3db,in-progress,['other'],58186452,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+bc328b0d-e2ad-4faa-b8cf-a4edcc1f409a,in-progress,['equipmentPurchase'],71545633,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0
+84da39d2-a191-4e35-a8f1-38310de02920,in-progress,"['CAPLines', 'workingCapital', 'acquisition']",70467587,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+63086cb7-5ec2-4007-9104-8b0790f18377,in-progress,['workingCapital'],46789737,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+c075d0c0-dd45-4051-abff-a6160196ed26,in-progress,"['CAPLines', 'workingCapital', 'equipmentPurchase']",46172202,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8cba2571-d368-446b-b10b-c86f7d088136,archived,"['acquisition', 'equipmentPurchase', 'workingCapital']",22599611,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+db510f18-938d-45af-96b8-e54939f441af,in-progress,"['acquisition', 'equipmentPurchase', 'workingCapital']",23865137,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+c4de3fd4-c98c-4767-9eb5-b668ea6842ee,submitted,['acquisition'],43604618,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+f25005af-5382-4118-ba43-27e0444399a7,submitted,"['generalExpansion', 'CAPLines']",43950947,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+a81300c3-8d08-4173-8977-7aee9ada9866,submitted,['workingCapital'],70482771,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+dd2c4bfa-ffc1-4c4e-b979-532143601d56,submitted,"['acquisition', 'workingCapital']",15049674,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+2eb8b925-40b8-41cc-89f3-68a2f70f02fd,in-progress,"['acquisition', 'equipmentPurchase']",15110429,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+5daaae29-bd32-4ba2-ba99-cef08d1a47f9,in-progress,"['export', 'acquisition', 'equipmentPurchase']",14352669,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9137e373-befa-4ef5-a90c-81c63459ab09,in-progress,['workingCapital'],76391245,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+a72daba5-f034-4634-8ab2-18ddaf3970a7,in-progress,['workingCapital'],34908696,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+d3332649-b660-47ff-a424-268eed4db856,awaiting help,['export'],76219513,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+b26ec1ca-940c-4fa9-9c75-5c77294bd079,awaiting help,['commercialRealEstate'],65434337,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+ec8fcbec-e5ad-4e40-8d61-20fa89ef3f98,archived,['workingCapital'],97116798,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9a842d92-e55b-4f48-a104-ced56321d711,archived,['equipmentPurchase'],96088350,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+f2cfefbd-80d8-415f-8af8-e256e5e98ade,forwarded,['workingCapital'],48167827,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9b9325c4-a850-4415-9806-4f461e3466f4,forwarded,['commercialRealEstate'],22878718,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+597502dd-42e6-4c2b-9c9a-b92c2a8d3cf1,archived,['workingCapital'],21395160,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+1ceecd2b-ddcf-4166-af4d-cdff90fcd6cb,awaiting help,['acquisition'],20544214,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2cf3c29d-83e7-4f26-9b3c-22741fb39cd6,awaiting info,['commercialRealEstate'],90027677,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1,0,0
+98efd244-014e-407b-8ba1-f903500ff080,archived,['generalExpansion'],76728877,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+f568093f-1d5b-44e5-ba31-69548b25cd90,ineligible,['CAPLines'],81357961,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+534ee844-c050-4ed0-b6bf-c4a2aa5238fa,awaiting help,['export'],63503664,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+85c11ea3-73f1-4362-b2be-688bce26d74e,archived,['acquisition'],93142199,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+69d00ffe-46c7-47a9-846b-940c6e9f3aae,withdrawn,['acquisition'],70827539,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+d0264e7c-ab3f-4799-ab4f-ab6728d04664,awaiting help,['commercialRealEstate'],48927886,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+101ace25-8aa5-4b5d-af32-f2067ad3e445,archived,['supplies'],83406104,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1
+8362435c-8bf4-4cbc-8ae9-b0a8e94ae8ba,awaiting help,"['workingCapital', 'acquisition', 'commercialRealEstate']",43190352,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,1,0,0
+0384fcf5-5cf5-4dff-8894-0d258bf5e4ec,archived,['supplies'],47326548,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1
+a39b07e9-ee4e-4cc1-a1dd-b8b49c8728a4,ineligible,['supplies'],70864462,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+56c44beb-f859-4a67-b1d9-ec5b9939ac67,awaiting help,['equipmentPurchase'],30891640,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+6fba77ad-9419-4d0e-9dba-35a8ef311017,archived,"['commercialRealEstate', 'workingCapital', 'equipmentPurchase']",85038118,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+98d86664-c23b-416a-a49b-0c7240fc83b2,archived,['other'],38450930,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3f23cf24-5f5a-4cb0-bca6-abcfbf01e642,submitted,"['acquisition', 'equipmentPurchase', 'workingCapital']",51552364,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0bf623fb-fd66-4c03-98bf-29921f8220c0,submitted,['supplies'],40268266,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+51dfc7d9-f2b3-4b22-b313-3783999c57a8,submitted,['equipmentPurchase'],61666635,0,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+7fbd61e8-b11c-479f-bcac-314b16c7c470,awaiting info,"['equipmentPurchase', 'acquisition']",75175876,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+5b1ccafe-0109-49df-9887-eb3d01b568dd,forwarded,"['workingCapital', 'acquisition']",61277545,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+d2d9f73d-f9f3-468e-a756-305c62939fdc,ineligible,['equipmentPurchase'],31326743,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+c4596ecf-b549-4e12-a6a1-a1464c98de53,archived,"['acquisition', 'equipmentPurchase']",69525354,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0f51edd0-ef66-4ac0-b17a-e7637b2e82e6,archived,['workingCapital'],16814476,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+5a0c6b64-5f56-4a7a-8514-041ad01c3c48,forwarded,['supplies'],85722099,0,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+66eb3f04-39c0-4b31-84d0-7c76f4545ca6,archived,['supplies'],86700364,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+5ed9ba34-a357-4840-b9a0-9a98201511aa,archived,"['workingCapital', 'acquisition']",98422483,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+9bedf1eb-570c-405e-b0fd-57b54b2a0162,awaiting help,"['workingCapital', 'acquisition']",19726830,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11ae0c21-073a-486f-9e7a-d02895b6172a,archived,['acquisition'],46209506,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ef4caa63-5ed6-416b-b7c9-1f19c9219ac5,withdrawn,['acquisition'],22405803,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+19919be4-046f-4a37-8fe2-93883fab30af,awaiting help,['other'],54629834,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+860d2dcf-0a65-4470-be1b-1ac6d43b7680,withdrawn,['equipmentPurchase'],53896078,0,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+e0f8a26d-9ec7-45dc-b935-17ecc62e8468,withdrawn,"['equipmentPurchase', 'workingCapital']",45538255,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+978d154b-2a01-452d-a6d9-6baa52806c56,archived,['acquisition'],47157821,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+948c52bf-af88-471c-a8d5-312282bc15a3,awaiting help,['acquisition'],56500781,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1396746e-0a46-4ead-ba05-6a328ae4a29a,forwarded,['equipmentPurchase'],78753397,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ef260ed5-41f8-4d11-9a57-bfd1bff2659c,awaiting help,"['acquisition', 'commercialRealEstate']",67394724,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+e76c61db-79a5-4d53-8f27-b9cb2b0353d0,withdrawn,['generalExpansion'],31341137,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,1,0,0,0,0
+13fa3433-e757-4e87-9c98-435c8868af0d,ineligible,['equipmentPurchase'],54553772,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+c92b5511-d122-4d50-b6f4-009fcefeb49d,withdrawn,"['acquisition', 'CAPLines', 'supplies']",43724663,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3146ef94-dc42-4393-b5df-ba163fe22ea3,awaiting info,['acquisition'],46099698,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+ac805ead-7709-4319-bd7b-1e2fe07ae535,awaiting info,['acquisition'],99175980,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+30817e50-6b6e-4867-a4d6-df654f1c06e3,forwarded,['equipmentPurchase'],98190190,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ef9dfa21-80d9-4146-80e8-5a011f9ee248,withdrawn,"['commercialRealEstate', 'export', 'acquisition']",66695625,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+58b022b9-79ca-4055-80ac-61ee1f8a8472,ineligible,['equipmentPurchase'],36364910,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+e73a809a-0e53-4a60-b0ce-069779cc9728,archived,['equipmentPurchase'],73589382,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+aa52f1ca-c784-4867-9d46-3dfed73668d3,ineligible,['export'],9968457,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+82292b37-56f4-471b-ab7a-c7c1baa1cb76,ineligible,['acquisition'],70444201,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+e8bab081-08da-4e8e-ba88-96ca9242e672,archived,"['workingCapital', 'commercialRealEstate', 'acquisition']",19378351,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+b598895f-8613-4a9f-9103-d3d2c6d640db,awaiting info,['equipmentPurchase'],47439090,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0
+83033f58-e737-4e0e-92de-7bbed79a8eb9,archived,['workingCapital'],38763349,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+17177716-19e9-4af0-92dd-8d6b3c7ed9ca,awaiting info,['acquisition'],12032927,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+a663d05a-4ab8-4e9e-95cb-8d27c264ab4f,awaiting help,['workingCapital'],49907758,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+c33e280a-02ee-45bc-bbbc-793e9be9e5c9,withdrawn,['equipmentPurchase'],13013204,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+e3e24141-c786-48bf-92d2-e7f7a47085a2,forwarded,['acquisition'],74780548,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+249fc1f6-1fed-49b4-afef-566f8f0e494e,forwarded,['acquisition'],16061492,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+cdcec394-625a-4908-a038-ff13c51025f4,withdrawn,['acquisition'],97680349,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2ae2e665-8ea6-4d53-986e-6c228ff39fce,ineligible,['CAPLines'],38787293,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+e563ca02-3fbd-4010-aced-dc78f8335ac0,forwarded,['workingCapital'],70405052,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+12da48aa-0163-4eca-a623-3662c540bdba,awaiting help,"['workingCapital', 'commercialRealEstate', 'CAPLines']",3824327,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+3e5bba10-fe75-4212-b7ad-453ecf39b57a,archived,['acquisition'],74782997,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+706abbe1-abf6-4830-8fa7-b5f84457350d,ineligible,"['equipmentPurchase', 'workingCapital']",17593455,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+726448d8-5b4f-46fb-9d99-1ca055965ba9,forwarded,['export'],88090920,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+89ffb5d0-4d71-4626-bfcf-f6f0112e3205,forwarded,['acquisition'],8754830,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+106f974f-40b0-4075-be02-f38969c350e5,awaiting info,['other'],92523009,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1,0
+4cb9fe84-d4a4-478f-b940-1d84d2ba2279,forwarded,['commercialRealEstate'],16651685,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+85ad3f5a-16ad-4f7e-8a50-bf81fd299777,awaiting info,['workingCapital'],68628972,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+10a89583-8683-4e9e-a367-57bdd4e39c52,forwarded,['export'],14233271,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+545cb140-f537-4650-ba2f-5bd75af3cbeb,awaiting help,"['acquisition', 'CAPLines', 'workingCapital']",10009389,0,1,1,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+62badb53-ac77-4382-83fa-c589bc575e34,awaiting help,['equipmentPurchase'],33750914,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+c06870ee-a22f-420d-b7cf-111b533ff433,withdrawn,['acquisition'],36312258,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+5e293f45-4177-414c-810b-7e843425f1a0,ineligible,['export'],58949867,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8abce1a3-8388-45ce-b52f-a0ec18178c22,awaiting info,['equipmentPurchase'],50461892,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+c5a7861a-e747-4cec-bcac-f5a9f05261bb,ineligible,['export'],25333261,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+9dbc4ab7-1674-467f-b7dd-74280184c47a,awaiting info,['acquisition'],92807626,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+6acf549c-098f-4ba2-a255-3abb3062958a,archived,['acquisition'],83558107,1,1,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+05cf84f7-d537-4350-94b6-36e68edf924e,awaiting help,['commercialRealEstate'],68816346,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+f818b575-ca6c-4679-ae52-c3505a178e90,ineligible,"['equipmentPurchase', 'acquisition']",52431844,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+68c2f7f7-c35c-43c4-8d17-f6d53f7a5f8c,awaiting info,['acquisition'],46744790,1,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+e2e94cf9-a725-4a0f-9f3d-953f09e17b26,archived,['acquisition'],97524030,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+551e1040-14e9-411c-ac05-6f64453c2916,ineligible,['acquisition'],58049031,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+fa602c9a-4d84-4dc2-86e1-0a69315ff98a,awaiting info,['acquisition'],18042487,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+64315c6e-5305-4c43-94d2-c0e7d3aff3a6,archived,['acquisition'],62155253,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+6dd64558-dfc5-4dfc-a13f-7146f626c40f,archived,"['acquisition', 'other']",56833999,1,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+7ac03d8b-15ee-403b-9338-01552a849f4f,ineligible,['acquisition'],63590818,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+15160f11-d0de-4db1-bdd6-95c510129f5d,archived,"['workingCapital', 'acquisition']",45665611,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+bee1cd89-4292-4232-a9eb-aaaae46044dc,awaiting info,['acquisition'],90262815,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+d43c1d15-adf1-483f-be9e-e87f008db4c1,forwarded,"['acquisition', 'workingCapital']",79647359,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+a6c4b09f-41b8-4830-bd20-493440ac3e2c,awaiting help,"['acquisition', 'workingCapital']",13081493,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8651b322-1685-404c-beab-c62f9834ff91,withdrawn,['acquisition'],25906475,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+6d64bf9e-37c3-4850-9e40-14b672896105,ineligible,['equipmentPurchase'],3985623,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+f3347c71-cde5-43bc-ac56-725cbba06a0e,forwarded,['CAPLines'],3446020,0,0,1,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0,0,0
+b3972752-4381-44c3-88f7-eafe0087477a,awaiting help,['workingCapital'],11086515,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+95cd07b8-d571-4920-bf53-41e3da779efa,awaiting info,['workingCapital'],47430596,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+22c32775-e8bb-4727-b4ff-f2d194d24007,archived,"['acquisition', 'supplies']",81616788,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+28c02cb9-ab84-470b-bd97-e380d2644d7c,ineligible,['workingCapital'],8980383,0,0,1,1,0,0,0,0,0,1,1,0,0,0,0,0,1,0,1,0
+cb5bb287-b228-47f5-88b1-af59373c02d7,awaiting info,['acquisition'],1554235,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+350e2ea6-c26f-4382-91ea-87a16d7f1a0f,withdrawn,['supplies'],69628462,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+577a9021-47c2-4285-af15-7df4672d453e,awaiting help,"['generalExpansion', 'acquisition']",37700002,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+c893eee1-3227-4bf9-b664-5164b013e409,archived,['export'],56339962,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+16c5a313-2d08-4b26-8011-192d1941c585,withdrawn,['CAPLines'],87514724,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+6abdefd7-f597-4447-9d54-c49d900fa6c0,awaiting info,['acquisition'],29598904,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+297d30ed-1e91-4636-bf1b-be77281a9cd1,ineligible,['supplies'],64575789,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+8fba9599-fd4d-4d44-a192-3676583527b5,ineligible,['CAPLines'],24605990,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4df85698-52a3-45c7-b821-94a9a1498ea9,archived,['generalExpansion'],91632270,0,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+59d1693d-9d1d-4608-868c-03f6dd20f784,awaiting help,['CAPLines'],48473349,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+abb57960-452b-4d02-80ae-0b3179a51f48,archived,['workingCapital'],35495970,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+ae567781-aed4-4f2f-b012-5d4028dd8a89,withdrawn,['acquisition'],24696341,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+23be1fdd-8e81-4e83-9299-7ceb86da54ed,awaiting help,['acquisition'],18543072,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+f6d4ac43-7185-4f75-9647-0ad3c697ac49,awaiting help,['export'],4618074,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+e56aaf38-fa92-4488-83ce-f74e35f9e2b7,awaiting help,['commercialRealEstate'],59404726,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+889f64ee-3b9f-4782-ab55-ea3033231809,forwarded,['acquisition'],88134010,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+c8f59362-c6de-4ff1-9257-d2e205243ff1,withdrawn,['commercialRealEstate'],13287150,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+48112141-3113-4c89-b916-ad9137f202ba,withdrawn,"['equipmentPurchase', 'generalExpansion', 'acquisition']",50833781,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+52f498ad-3bf4-4218-8174-f1bdfda381c0,forwarded,['acquisition'],23443697,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3a60b8b4-5c32-4ba8-b8d0-dd85b8c75346,withdrawn,"['commercialRealEstate', 'acquisition', 'workingCapital']",14626033,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+94b915dc-5960-4310-b97d-edab942f7551,withdrawn,['acquisition'],97630404,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+e6b6436c-e6e3-42f1-95ac-88479d33ca94,forwarded,['acquisition'],9638720,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+30108baa-7748-47ba-9daa-f5c13f211394,awaiting info,"['acquisition', 'commercialRealEstate']",82879930,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+1b508042-5f95-4970-a73a-d8fc847d8274,awaiting info,['acquisition'],5349675,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+08e21b62-0aea-4a63-bfda-daf8a1c4ee15,awaiting info,['acquisition'],39373719,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+f09f0257-0801-4e0c-a4ad-ec194dba7284,ineligible,"['equipmentPurchase', 'commercialRealEstate', 'acquisition']",74060066,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+dbc1edca-ba66-49cf-856c-f7fb22098e4d,awaiting info,['acquisition'],12305845,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+b1f1e776-1c67-4869-adcf-250a2ae4b18e,awaiting help,['export'],99710627,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+d5d4be3d-2165-44d7-a0ff-6fa48027422d,ineligible,['workingCapital'],41073901,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+6bd205e6-111b-4616-970a-5da71e2276b4,ineligible,"['acquisition', 'export']",10162620,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+5c6e76b3-f314-4c74-88b0-e1e8c5ccbbeb,awaiting info,['generalExpansion'],70392870,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7737db1a-aeb8-42cc-95f9-c77b81a8d7ee,forwarded,['supplies'],73580144,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+c1ec5fbe-763c-443f-a055-54bf75ead644,withdrawn,['acquisition'],81329439,1,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+56a0567c-7a43-477c-bb9b-259191b826bf,ineligible,"['workingCapital', 'acquisition', 'supplies']",92918132,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3e10fa66-3bb8-4434-ae92-1a6264e5ee80,awaiting help,['workingCapital'],39230518,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+f515b122-564b-4fa4-90d0-998a7c2e7e85,ineligible,['acquisition'],6557959,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2f715cb5-72ea-429e-8faf-38c0dae3cc25,awaiting help,['acquisition'],72386568,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+337acb1b-f291-4936-9777-4b2e9a533908,ineligible,"['acquisition', 'workingCapital']",95890126,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+83e9b26d-0460-4e2a-a009-d66ec6f4955c,forwarded,['workingCapital'],13028257,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+e8aed256-2524-478e-8387-f641371a2115,withdrawn,['acquisition'],79230181,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+987cd4c4-130d-410c-a63d-406af4799a02,withdrawn,['workingCapital'],58364411,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+1b21f05b-40de-4273-b8c1-4a0ff1aa4b48,awaiting help,['equipmentPurchase'],7492448,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+d4f938a6-34f9-4a72-842e-6cac30bce698,archived,"['workingCapital', 'acquisition', 'CAPLines']",58987541,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+df6f14b8-5ec4-4a5a-9aa9-f961c49bd6cd,archived,['equipmentPurchase'],55245642,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0
+9d474c6d-5bf8-4519-8f9c-c9c6decd0d32,forwarded,"['workingCapital', 'acquisition', 'equipmentPurchase']",13323355,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+5f058e87-476a-4460-9d01-55b68d3f0c5f,awaiting help,"['export', 'generalExpansion', 'acquisition']",62116454,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+a2414c57-7bd4-4148-abd8-c758929bad8d,ineligible,['acquisition'],85063171,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+72579641-0f2e-4faa-ab4e-e40a079176d2,withdrawn,['workingCapital'],64299333,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+eaf8a8ab-39fd-49da-83f8-a1468ba095b0,awaiting info,['commercialRealEstate'],23040360,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+b077e211-cf45-4b65-bfaf-a78a25310910,ineligible,['workingCapital'],30849752,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+83074ed8-b38e-4fdf-b2ed-320ca9d48430,ineligible,['other'],19254635,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4003f4e9-3348-4c4a-a4a3-02b1db46441e,archived,['supplies'],70164366,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+6da42ae5-917e-4e1e-b517-d908512bf970,awaiting help,['commercialRealEstate'],84978360,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+26f6423c-5e97-4de0-8267-54d05a039390,awaiting info,"['acquisition', 'commercialRealEstate']",4548005,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+53547a7e-bb03-4948-9f1c-f9d05e74d442,ineligible,['acquisition'],79126357,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+bb5ae2f6-0ae9-447e-9926-c5cffe2b350f,archived,['acquisition'],39879709,1,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+1667e6b3-0653-4ff6-a2b0-846d53da7402,forwarded,['acquisition'],59780568,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+5caa496f-c3f8-44d1-8855-47a1b6c10e8b,awaiting help,['acquisition'],25414236,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+c1fc6e48-bfca-4a6d-8ca9-b3def053806a,archived,['acquisition'],37925308,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+61a9579b-21d6-4942-8edb-814a8deb9fa9,awaiting info,['acquisition'],44180050,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+8b7f9ad2-3f67-4feb-a928-35fc754dfc8e,awaiting help,"['acquisition', 'workingCapital', 'commercialRealEstate', 'equipmentPurchase']",93623815,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1b42bcea-0404-49e4-8240-17e62fb6ae11,awaiting info,['equipmentPurchase'],36823916,0,0,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+513393a0-8fc4-4abe-aa45-75c313af2c54,archived,['workingCapital'],32782720,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+3b48695c-73b1-4b7c-929a-45ff6b1e3f1b,archived,['workingCapital'],80234021,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+dc0a9700-10d4-47a1-a417-b7ded025b512,awaiting info,['commercialRealEstate'],80697233,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4bc5cdff-f960-4e58-a787-c0318693043b,ineligible,['acquisition'],91044036,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+f299b462-ef0b-48d6-ab5f-8443007307ab,withdrawn,['equipmentPurchase'],3574796,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ab12748e-3165-442e-9ece-3a79dff66d1a,ineligible,"['acquisition', 'equipmentPurchase']",13234291,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+d571544f-93c5-47b0-8ac7-fda3a75d33bd,awaiting info,['equipmentPurchase'],47357505,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0e7261e8-ec58-423c-9082-479baaf651fb,forwarded,"['commercialRealEstate', 'workingCapital']",3819108,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+528471a2-7862-425c-9582-78e82192e83d,awaiting help,['export'],41265997,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+be191b7a-9346-4d1a-b510-8bdbb325c884,awaiting info,"['acquisition', 'supplies']",82485863,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+b617c5bd-5e89-4342-b310-343fe8350ee9,awaiting info,['export'],56558245,0,0,0,0,1,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0
+1927f4d6-1af1-4535-b70b-a603bba272d7,awaiting info,['acquisition'],18561516,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,0,0,0,0,0
+f9a3da6d-cf9a-462f-b871-4cf428cf04d5,ineligible,"['workingCapital', 'equipmentPurchase', 'supplies']",22071874,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+c69ea575-237f-4c96-9ccd-cd66bc8f91f8,withdrawn,['workingCapital'],8617878,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+fdc4d6d0-8873-4b3d-b997-0d1d9140a7ad,awaiting info,['acquisition'],29287990,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+066b14b4-9ea3-48aa-9d6a-10358a7e3b15,awaiting info,"['supplies', 'commercialRealEstate', 'acquisition']",18800821,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+152ead8a-b21a-4c05-8880-4e9224f7bf9f,ineligible,['acquisition'],97454017,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+e2d123d3-9061-4fcd-a806-4d81328587b1,forwarded,"['equipmentPurchase', 'commercialRealEstate', 'acquisition']",12431720,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+83f3b395-b1f2-455a-bcdf-342e68bb30cc,awaiting help,"['equipmentPurchase', 'other', 'commercialRealEstate']",84896399,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+01c0c7f0-aed6-488c-8344-408f8ce3186e,ineligible,['acquisition'],82380066,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1
+734ba69f-ef08-4f27-9cfc-35ce46b12a25,ineligible,['acquisition'],53913715,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+b6bdc831-6c46-4958-834b-b145126de15a,ineligible,['acquisition'],57273535,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+0068621e-199e-4126-a10f-cff3f3219812,ineligible,['acquisition'],43152416,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+27b06261-6c8a-4d27-8ba2-d8fd982bfecb,withdrawn,['supplies'],33806259,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+96b15519-a73f-45f8-9afa-3632b2b20e20,awaiting info,['acquisition'],57443113,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+f3da5b33-d09b-4eb5-b1ca-e04c6c91e4c2,awaiting info,['equipmentPurchase'],35385282,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+bcbf20d9-f4d8-4b00-a30d-ceff046b1a5c,ineligible,"['equipmentPurchase', 'acquisition', 'workingCapital']",10357487,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4549eb79-2934-4ab8-940f-3c9c3f5b6427,ineligible,['acquisition'],71703511,1,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+6a325b5f-2392-4d34-a841-f7605db520da,forwarded,"['acquisition', 'workingCapital']",3290532,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+c8952f1f-19bb-415e-86da-c10cbbf70e27,awaiting info,['commercialRealEstate'],14855724,0,1,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+cba319aa-8c53-4b84-a42a-f947b63a6d83,archived,"['acquisition', 'equipmentPurchase']",78718430,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+a954bfca-e14a-4c46-9456-1007ca733475,awaiting help,['other'],32486424,0,0,1,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+abe7fd09-4b50-4584-af12-b97e80313b88,ineligible,['acquisition'],19462535,1,0,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+7f7cf4cd-e548-4f27-be89-6ee17904ee33,ineligible,['workingCapital'],11281763,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2ff29234-97c2-4660-8f25-85bebdcbbd1c,forwarded,['supplies'],91146543,0,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+f73771b8-9adf-4aa4-9902-7cfd803cf815,archived,"['acquisition', 'other', 'workingCapital']",59342806,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+d914d8a6-a581-47e3-ac02-652da492cd37,awaiting info,['supplies'],65192864,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+6de35c0a-881e-4748-affa-8a2d6190c74d,ineligible,['acquisition'],82998573,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+a160f151-2fa9-4db0-9aec-4667c4ef6ddf,ineligible,['workingCapital'],11580105,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+d8eb2b1a-f690-4ffe-a733-753da1bd2011,awaiting help,['workingCapital'],10265593,0,1,0,0,0,0,0,0,0,0,0,0,1,1,0,0,0,0,0,1
+04a52242-4528-4573-bf05-e2543465c97f,archived,['commercialRealEstate'],47421083,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+389b0298-5dad-4eff-948b-76d415b2bd09,awaiting info,['workingCapital'],57630283,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4436fafe-0cb8-4639-8126-cb72e6ae9bca,archived,['other'],27166403,0,1,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+d551d491-c287-4408-9cee-e67c1b3a6998,awaiting help,"['workingCapital', 'acquisition', 'commercialRealEstate']",46127377,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0
+3cbb6f06-1170-44ac-b451-a6eda9c1a1dd,archived,['generalExpansion'],77111915,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0c049f42-d428-49b7-81c0-87600542e0e5,ineligible,"['acquisition', 'generalExpansion', 'equipmentPurchase']",56164586,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+54c04458-9c4a-48c5-80ab-fd1282250ec6,withdrawn,['acquisition'],77152169,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+12c4d535-9dea-4094-b1fb-4d8a4e0d9679,awaiting info,['acquisition'],34258070,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+8610e657-990d-4ab8-bcb8-6565511aa9aa,archived,['acquisition'],47113602,0,1,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+2ada6522-5570-4695-9dc8-4648ea9b871e,awaiting info,"['equipmentPurchase', 'acquisition']",23278027,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3bf0b534-2dbb-4e24-a6b1-1a6ce0b4aca0,ineligible,['workingCapital'],23782484,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+d46d3120-b33a-4f40-9b8c-9c1291a96369,withdrawn,['acquisition'],19541499,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+08a7c9e3-fcc5-4c8e-b38a-09134d721184,forwarded,['acquisition'],11898419,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+97ad4ea7-0fde-467e-92d3-4a8d9e2afdce,awaiting info,['acquisition'],26233783,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+cd749be2-6d21-40c2-b90e-38b04e9fd73c,forwarded,['equipmentPurchase'],42711715,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4819ab1e-a187-428f-8707-1f675b7b850d,withdrawn,['commercialRealEstate'],31616740,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+61e899ce-0c00-48f4-b88c-3fbb57bb37fb,forwarded,['acquisition'],88170790,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+96552487-d2a4-4566-b071-8b03e592f81a,archived,['export'],28401267,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2f9a0e2f-a615-488a-a5ce-856bbee7cf0b,awaiting info,['acquisition'],69674107,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+20596e93-fe76-4b81-b4fb-68963953ff4d,archived,['supplies'],91368171,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+dc61ecf1-9e93-4ea6-b9f4-389a95a9ef2a,forwarded,['acquisition'],56053137,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+227f0c84-7957-472b-9b49-e464b6c7afa9,archived,['equipmentPurchase'],14045292,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+db030986-39ff-4dfc-8e77-e70084691405,forwarded,"['acquisition', 'supplies', 'export']",98994920,0,1,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+4ebeaf72-fbc2-41aa-a038-d18576f75054,forwarded,['equipmentPurchase'],36906311,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+624fc3ac-3060-4b84-8c7e-4fcc0d5951dc,archived,['supplies'],96057535,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+f457deec-72c9-4c31-899a-5907caf8e9b1,withdrawn,['commercialRealEstate'],49578911,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+997579ed-dc53-486e-ac98-5898389f5fee,archived,['equipmentPurchase'],50646274,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+43f3466b-cc61-4150-b528-eb3915648dbd,withdrawn,['workingCapital'],62107351,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+dd78c5b4-dbb0-4550-8e1d-3ffa9db8c9c9,forwarded,['equipmentPurchase'],16527913,0,1,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+3b32848f-3530-4026-8c14-3e14e497584f,awaiting info,['other'],30122508,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+cd8667e2-a1a1-45ef-a27a-02904a70c5d2,ineligible,['acquisition'],76239255,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0
+db430063-6d80-4774-998a-bafde5d24eef,ineligible,['workingCapital'],29830878,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+d9ebe876-ef7d-4847-ad55-78625de164e5,archived,['acquisition'],75645231,1,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+7f911123-f9f3-4d07-87af-352673ca804c,ineligible,['acquisition'],92246040,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+054544d7-1c1a-4f27-b8bb-fb6c43ae8593,ineligible,"['equipmentPurchase', 'acquisition', 'other']",32775852,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+21918ff4-c93b-4acf-9599-e73f36bf7d0a,awaiting info,"['supplies', 'acquisition']",50498477,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4a1e9530-00b2-4cfe-82a0-f6f2330e9ac5,awaiting info,"['workingCapital', 'acquisition', 'generalExpansion', 'commercialRealEstate']",72486905,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,1,0,0
+dfdfb116-d94f-4870-96ab-0d025bc3f53e,withdrawn,['equipmentPurchase'],51261122,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+b1effc5d-1c31-4deb-9af2-fac635b32400,ineligible,['export'],45095452,0,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+6a623794-1fa0-4a4e-9d39-3c8b891d1790,ineligible,['supplies'],28813741,0,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+c4f2b937-8e48-4272-bcd2-f4edf95975ff,awaiting info,"['acquisition', 'generalExpansion', 'equipmentPurchase']",50701033,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+cc894379-5aaf-467c-9a88-906b076ec7c8,ineligible,['acquisition'],31966450,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+70b5f5bc-8f5d-40ab-a6fe-ac8e1dd534ce,withdrawn,['workingCapital'],14270908,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+6a76c464-0234-4f07-9e99-954068fb3cb6,ineligible,"['workingCapital', 'commercialRealEstate']",37303618,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0c0468c6-3327-4f52-9e53-b8a633c16439,archived,['workingCapital'],55568093,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ba691fb7-9e99-4a49-b10f-8481a15a94cd,submitted,['supplies'],62553020,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+6ec71f69-47dd-421c-a4b7-b81d20c581d1,in-progress,['acquisition'],28346939,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+302fa238-9d47-429f-90d7-f3e714c0d7c4,in-progress,['other'],23637187,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+f7f9f271-61a4-458d-9532-3164b2bf10e3,submitted,['workingCapital'],82733763,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+86b3f96f-bed2-4701-8335-78549acbfa67,in-progress,['acquisition'],33572855,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ba5ee8c4-38e1-42d2-9e25-2bb5513e2056,in-progress,['acquisition'],49282094,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+a95158cb-9033-44e2-93fb-6380741b9d7a,awaiting info,"['acquisition', 'commercialRealEstate', 'supplies']",51145410,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3c707b1c-497d-4b09-ab6d-4c06b22583e5,in-progress,"['workingCapital', 'acquisition']",50000000,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+083345b4-5f3d-469d-b041-97b8a932be47,ineligible,['acquisition'],63798783,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+7ce1edc8-2d4b-488d-85b0-95a07f2e6295,ineligible,['acquisition'],2613209,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+a373a174-2be4-432f-a74e-5ae2019b8134,withdrawn,['acquisition'],58005916,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+c95d14c6-9add-4644-8674-dbccdc0b6863,forwarded,['acquisition'],2850179,0,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7c23c9f9-566f-428d-b226-0020ffdf002e,archived,['acquisition'],84466616,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+55832ddb-d477-4088-88d9-87634a15d67e,withdrawn,['workingCapital'],35710370,0,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+c913d51b-edc3-4f80-a84b-d4a34f6a7adc,forwarded,['workingCapital'],81702820,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+a6ab0ae4-2397-466f-8ad7-b6dab7abfb49,withdrawn,['equipmentPurchase'],65475009,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+894cc59a-71dc-45ef-bfd5-de8515b4ac64,awaiting info,['acquisition'],53329198,1,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+f5ba688d-73f5-4924-8c85-f25ec544d75e,awaiting help,['acquisition'],17681412,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+fca17ba3-07bf-42e0-9467-ea809e079ccd,ineligible,['commercialRealEstate'],58840973,0,1,0,0,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+ba3cfb4d-3fc7-48c2-8da5-e12c0c107052,withdrawn,['supplies'],23274570,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+707ca099-576d-4fe2-beb1-2e0da4262594,awaiting info,['workingCapital'],72079778,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+96cce28d-87e5-4b52-b3a7-ba51ab98d6c9,archived,['acquisition'],70233945,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+69025073-200c-4b6e-8bd4-560ce00e0b51,awaiting info,"['equipmentPurchase', 'acquisition']",28225197,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+f8e304a6-3d68-4901-b072-db7a6ff200b8,withdrawn,['commercialRealEstate'],53300412,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+8b7289f9-e40d-4d82-ab48-3d561c3c7732,withdrawn,['workingCapital'],96154736,0,1,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+c5b4ea9d-0fdd-4398-a970-d877e1efe585,archived,['CAPLines'],78694336,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+58b1c75f-e925-4aa7-b2f8-a2daf7d43e52,archived,['equipmentPurchase'],40042603,0,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0
+958c86e8-cae0-452b-b6c3-78298b5d40fd,withdrawn,"['acquisition', 'generalExpansion', 'commercialRealEstate']",66786209,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+46175007-fb41-43cd-b2c7-1f3077ba6ca9,awaiting info,"['workingCapital', 'acquisition', 'commercialRealEstate']",41379015,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3d8723ee-f716-4c0d-99cb-a823efabf568,withdrawn,['acquisition'],61219972,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+d6eb545d-e7ee-4b1e-9cf2-7ff662c32e34,ineligible,"['export', 'acquisition', 'workingCapital']",47276182,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+605e1fe2-6044-4a73-9aa2-4d284b04a1d0,ineligible,['other'],50545965,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,1,0
+31177356-659d-40e1-b0ab-00e88594b9f0,awaiting help,['workingCapital'],13655211,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+96429cae-e963-4eb8-b38f-f1e130449c73,withdrawn,"['commercialRealEstate', 'CAPLines', 'acquisition', 'workingCapital']",86018161,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+6d71c02d-9ef0-4e8f-a599-2d97242860d0,ineligible,['workingCapital'],70132297,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+50089777-3f8d-4776-97bb-8372700eafb6,ineligible,['acquisition'],74708489,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+45f1f214-661b-4661-9714-aed0d41706ed,archived,['acquisition'],40277283,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+f8cbfbc1-c28d-49e8-ad45-4a93b97494a2,awaiting help,['commercialRealEstate'],64719991,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+b4f15ed5-f29b-4909-a50a-e59a6e883113,archived,['acquisition'],37742932,0,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+f90fc7bc-e535-4151-a00a-0666d46230d8,forwarded,['workingCapital'],26471980,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+21afb145-3fe7-46cf-afa5-64030f78f484,ineligible,['other'],17136853,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+b1eb5a34-b228-4294-9cb5-7e4164cd10aa,awaiting info,['acquisition'],44388262,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+96834211-4cc6-4140-9ead-36af49d5ecd5,withdrawn,"['supplies', 'acquisition', 'commercialRealEstate']",15729937,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+3d65c606-b05c-435b-83fb-3197e7fb2f26,awaiting info,['acquisition'],98579935,1,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+39efe4c2-85f7-4971-936c-7c49683303e0,forwarded,['equipmentPurchase'],95578799,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,1,0,1,0,0
+acd87db8-e6d7-42d9-b5d0-6a5f446c3003,forwarded,['equipmentPurchase'],52315139,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+92545721-adc4-4785-a538-8272ddabce04,forwarded,['equipmentPurchase'],68777644,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+aa66f287-3d09-4c44-b140-846737c5c552,awaiting info,['acquisition'],43042226,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2dbe948e-8c3b-4955-85af-c0e17245baac,forwarded,['supplies'],35240489,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+bfe81215-0787-41ce-bc9d-01fd85bbc68f,withdrawn,['acquisition'],85774262,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+5e6a7122-fbe1-40c7-afed-266f92918ae8,forwarded,"['acquisition', 'workingCapital']",83639698,1,1,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0
+c2118946-295b-4210-aa0a-173afbee8c91,forwarded,"['acquisition', 'generalExpansion', 'other']",28136266,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+dd27dd35-e400-4fa5-8340-f5e8107f7975,ineligible,"['workingCapital', 'acquisition', 'commercialRealEstate']",17374051,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+6f74b267-5111-49df-93d1-c3f59045fc1b,ineligible,['equipmentPurchase'],79517424,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+d20aca2f-4b25-48d7-b637-20becdd06cd8,awaiting help,['commercialRealEstate'],17763981,0,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+3540ed0a-4b52-4d9f-9d45-6d738bb1accb,forwarded,['acquisition'],92864112,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1a93fc39-7c4d-463a-b784-5057afe37ebc,archived,"['commercialRealEstate', 'generalExpansion', 'acquisition']",31024545,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+a65b636e-94b1-4c7a-97d5-e397e2020af6,withdrawn,['equipmentPurchase'],2870449,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+e7b97c34-8cfc-41a5-8f2d-cb505db9b3a0,awaiting help,"['workingCapital', 'acquisition', 'supplies']",60610123,0,1,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+78c7aef3-9255-4554-b678-347ece365b79,withdrawn,['equipmentPurchase'],9170059,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+651440fd-7f47-4858-b07c-a95c8ecce3c6,ineligible,['acquisition'],3323922,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1bf2051b-0f5e-4b48-b9f9-9b2edfd8693c,awaiting help,['workingCapital'],36980313,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ec63014b-a498-4826-850e-794031b048be,withdrawn,"['equipmentPurchase', 'supplies']",92106086,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+c10abc64-cfcd-4774-bd21-5e3adfd2e0fb,awaiting help,['acquisition'],15334701,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+2ed26d5d-710e-4944-811f-26b202c8c253,awaiting info,['acquisition'],41924593,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+208354e5-528e-4daa-b595-f49eabfd7978,archived,['acquisition'],8695188,0,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+f0ab374b-6b89-470e-aedb-89222d0a1243,withdrawn,['acquisition'],49258395,1,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0
+6437dd64-0368-4a98-af58-f60e1677a313,forwarded,"['supplies', 'acquisition', 'generalExpansion']",85981341,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3ea4eb5e-570b-49d2-b446-8538ea5417b8,withdrawn,['acquisition'],5966673,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+6ac7ca00-5584-402f-948e-81afa4e39048,archived,['equipmentPurchase'],3024764,0,1,1,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0
+fd2fe01f-29a8-4c82-a1d2-3448a4d6437c,forwarded,['equipmentPurchase'],37062182,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+07f90b81-1187-4b71-b39a-b2feb5a235ef,forwarded,['equipmentPurchase'],15706028,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+ca8b1b59-e0ef-431c-ae26-5485e08d432a,withdrawn,['export'],39493223,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+41460f7b-99c4-4a89-bf5f-e4207accb1df,forwarded,"['acquisition', 'commercialRealEstate', 'equipmentPurchase', 'generalExpansion']",72221861,0,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3054ea0b-2f19-4903-9ab2-5cf353c45653,ineligible,['other'],24540293,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+b851982a-ca83-47c9-94e3-adf63d6fc008,forwarded,['export'],71681544,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4a2f78ac-44c0-44df-b96d-f2dd51c29f11,awaiting help,['CAPLines'],58906101,0,0,1,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0
+acf297c0-7587-46af-8b8a-9887f0702982,awaiting info,['commercialRealEstate'],67425699,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+fbc7abc8-adc7-4b3d-9b72-bbbdde0b9f17,awaiting help,['equipmentPurchase'],93557715,0,1,1,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0
+df02bd1f-3ae5-4075-be6b-36e9b7ec4cb5,archived,['workingCapital'],56927631,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+44b2a49b-b4a6-433a-ad55-1b87d8d5cd61,withdrawn,['acquisition'],26518314,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+46efb6f5-fa2a-4f24-a441-3e9f166f457b,archived,['acquisition'],43001074,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+471a4078-3979-4b6e-9b80-a082ae8b8a2c,ineligible,['acquisition'],73023351,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+c845d1d7-df74-4ce4-9485-4ed2f8a1dec7,withdrawn,['acquisition'],78784084,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+341e6407-76f8-4de5-adbf-531472147ee2,ineligible,['CAPLines'],34698637,0,0,1,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+d6bf90fb-933c-4696-bd83-b167149ee709,archived,['equipmentPurchase'],86784655,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0
+0903b80a-34e8-451a-9a0d-fedc3e326b4b,forwarded,['equipmentPurchase'],18059300,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1e565df1-1020-4841-9155-5d65bbfd04c4,forwarded,['supplies'],73590677,0,1,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+e3dcfd96-b0f4-4587-85d0-1ed6ebc28fe4,forwarded,['supplies'],83848122,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0
+f7e79a10-40df-4f50-b94f-149ba54c3d58,ineligible,['equipmentPurchase'],39708045,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4997fcf8-9e16-4cc0-b58d-02845b6b5eb6,forwarded,"['workingCapital', 'commercialRealEstate', 'equipmentPurchase']",10474269,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8284f8b3-7c6a-4b05-9379-3dcba346a855,ineligible,['equipmentPurchase'],70552953,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1b4e5726-d32a-4795-9446-9ba2553cfa64,awaiting help,['acquisition'],54181212,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1033dc7a-ca66-426b-a906-79a03c2ed112,awaiting help,['acquisition'],38384733,0,1,0,1,0,0,0,0,0,0,0,0,0,1,0,0,0,1,1,0
+90a8477f-dc28-4622-a603-87d85dfd8c68,awaiting info,['equipmentPurchase'],34322392,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+0fff50f6-38dc-4bed-9b80-fc65e7795d2b,awaiting info,['acquisition'],77558853,0,0,1,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0
+a81c1726-ebaf-4245-a490-c4dc7f9efbc0,archived,"['acquisition', 'equipmentPurchase', 'workingCapital']",85636644,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+c5682547-c291-4360-9e3e-20940bc746b0,ineligible,['equipmentPurchase'],28176646,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+7a151f19-46ca-4e2f-9030-4d7e9eb6f13f,awaiting help,['acquisition'],66221839,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+af897c9d-7f55-4f73-ac6e-f2d3ece7fa7a,forwarded,"['acquisition', 'export', 'equipmentPurchase']",65807856,1,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+6ebc5b66-38cd-4719-b442-6414a4c1a145,archived,['workingCapital'],49352358,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+33d67323-08db-46e5-a96c-8fbed3dd6001,withdrawn,['export'],50554555,0,0,1,0,0,0,0,1,0,0,1,0,0,0,0,0,0,0,0,0
+25ce2390-f66a-49c5-9fb3-26c75124b289,awaiting help,['equipmentPurchase'],43089388,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+af97a4ae-0829-407c-ad41-0a76e7bce0fd,awaiting info,['CAPLines'],32918548,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+cf6ba88d-e03c-437e-b4ad-2e7a19b80e09,forwarded,['acquisition'],72025131,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+871dd1c2-42c0-474d-9515-ef4819a95c6b,forwarded,['acquisition'],63733172,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,0
+b1449fa4-0a8b-4ca5-82de-1488c0c6bb14,awaiting help,['acquisition'],95459306,1,1,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0
+2d7a5ccb-a2fb-41dc-9fe6-29d475c1f63f,ineligible,['acquisition'],54496123,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+49497273-970c-48cb-9ff8-96ceafa5a598,awaiting info,['workingCapital'],1706908,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+4e1b274e-161d-4ae4-ae6f-09aa24d23167,archived,['generalExpansion'],47506589,0,1,1,0,0,0,0,0,0,0,0,1,0,0,0,0,1,0,0,0
+5738cf07-4178-4c21-b3fd-83f628450b6b,awaiting help,"['equipmentPurchase', 'acquisition', 'workingCapital', 'commercialRealEstate']",84487701,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+693c807b-de28-4799-a0c6-febdac37191c,forwarded,['acquisition'],97139355,0,1,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+08f18deb-4b2d-4251-a1e1-60efc2d7f5a7,archived,['acquisition'],98466457,1,1,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1,0,0
